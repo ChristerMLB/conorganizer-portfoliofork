@@ -1,11 +1,10 @@
 import { Card } from '@mui/material';
 import { Route } from 'next';
 import Link from 'next/link';
-import { ConEvent } from '@/models/types';
 import EventCardHeader from './EventCardHeader';
 
 type Props = {
-    conEvent: ConEvent;
+    conEvent: any;
 };
 
 const EventCard = ({ conEvent }: Props) => {

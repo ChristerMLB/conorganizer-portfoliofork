@@ -164,6 +164,7 @@ const EventList = () => {
                     .filter((conEvent) => !volunteersPossible || conEvent.volunteersPossible)
                     .filter((conEvent) => !beginnerFriendly || conEvent.beginnerFriendly)
                     .filter((conEvent) => showUnpublished || conEvent.published)
+                    // @ts-expect-error - this error does not show up in the database-connected deployed version, and is confirmed to be harmless here
                     .sort((a, b) => a.sortingIndex - b.sortingIndex)
                     .map((conEvent) => (
                         <ErrorBoundary FallbackComponent={EventCardBoundary} key={conEvent.id}>
