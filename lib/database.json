@@ -703,36 +703,6 @@
         "id": "PA6nNUwQCIhkdPKLnj4u"
     },
     {
-        "possiblyEnglish": true,
-        "gameType": "Annet",
-        "beginnerFriendly": true,
-        "lessThanThreeHours": true,
-        "pool": "Søndag Morgen",
-        "host": "Tobias Staaby ",
-        "published": true,
-        "moreThanSixHours": true,
-        "childFriendly": false,
-        "sortingIndex": 5,
-        "gameSystem": "",
-        "imageUrl": " /image/programm/BloodOnTheClocktower2.jpg",
-        "subtitle": "Social Deduction",
-        "lastUpdated": {
-            "seconds": 1696683819,
-            "nanoseconds": 358000000
-        },
-        "description": "<i>Blood on the Clocktower</i> er et sosialt deduksjonsspill (Mafia, Werewolf, Secret Hitler) for opptil femten spillere. \n<p>&nbsp;\n<p>I den tilsynelatende fredelige byen Ravenswood Bluff skjuler en demon seg, som hver natt tar livet av en uskyldig landsbyboer. Spillerne tar på seg roller entrn som landsbyboere og outsidere, som må samarbeide for å luke ut demonen, demonen og dens minions, som må ta livet av de andre spillerne mens holder demonen identitet hemmelig. Hver spiller har sine unike evner som gir dem informasjon om andre spilleres identitet, eller lar dem påvirke dem på ulike måter.\n<p>&nbsp;\n<p>Unikt ved Blood on the Clocktower er at døde spillere fortsatt kan delta og påvirke spillets utfall, og ingen er helt ute av spillet før det er slutt. Spillet har også en \"gamemaster\" som vil fatte ulike avgjørelser i løpet av spillets gang for å holde det balansert og spennende for alle. ",
-        "hideEnrollment": false,
-        "createdAt": {
-            "seconds": 1696683819,
-            "nanoseconds": 358000000
-        },
-        "volunteersPossible": false,
-        "title": "Blood on the Clocktower",
-        "room": "",
-        "adultsOnly": false,
-        "id": "PYQpq3ElvTKoMmaMcZIO"
-    },
-    {
         "moreThanSixHours": false,
         "lastUpdated": {
             "seconds": 1696682381,
