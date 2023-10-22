@@ -1,0 +1,1911 @@
+[
+    {
+        "beginnerFriendly": true,
+        "description": "<p>Miniatyrar fortener farge! Anten det er til miniatyrspel, rollespel eller brettspel så gjev malte miniatyrar meir liv til ditt spel! Så bli med på maleworkshop!\n<p>&nbsp;\n<p>Regncon arrangerer maleworkshop for alle, uansett nivå. Konkurransemaler? Kom og slå deg ned. Aldri rørt ein pensel? Det går greitt  - vi skal lære deg. \n<p>&nbsp;\n<p>Maleworkshopen er sponsa av <a href=\"http://gamezone.no\">gamezone.no</a> og <a href=\"https://bjorkelo.no/\">Bjørkelo Formidling</a>.",
+        "host": "Rune Andersland",
+        "published": true,
+        "sortingIndex": 5,
+        "gameSystem": "",
+        "childFriendly": false,
+        "possiblyEnglish": true,
+        "createdAt": {
+            "seconds": 1696522658,
+            "nanoseconds": 839000000
+        },
+        "volunteersPossible": true,
+        "gameType": "Annet",
+        "title": "Maleworkshop",
+        "hideEnrollment": false,
+        "lastUpdated": {
+            "seconds": 1696522658,
+            "nanoseconds": 839000000
+        },
+        "imageUrl": "/image/programm/MiniatyrMaling.jpg",
+        "room": "",
+        "lessThanThreeHours": false,
+        "moreThanSixHours": false,
+        "subtitle": "Få farge på figurane dine",
+        "pool": "Lørdag Morgen",
+        "adultsOnly": false,
+        "id": "0RBOfPNdbOWVwgddO1k5"
+    },
+    {
+        "hideEnrollment": false,
+        "imageUrl": "/image/programm/PokemonTabletop.jpg",
+        "beginnerFriendly": true,
+        "lessThanThreeHours": false,
+        "volunteersPossible": false,
+        "published": true,
+        "sortingIndex": 5,
+        "subtitle": "Pokemon som rollespill",
+        "moreThanSixHours": false,
+        "createdAt": {
+            "seconds": 1696683883,
+            "nanoseconds": 992000000
+        },
+        "gameSystem": "Pokemon Tabletop 2nd",
+        "possiblyEnglish": true,
+        "adultsOnly": false,
+        "title": "Intro til Pokemon Tabletop",
+        "childFriendly": false,
+        "host": "Ola og Haakon",
+        "pool": "Søndag Morgen",
+        "room": "",
+        "description": "<p>NORSK: Er du fan av Pokemon spillene? Liker du å fange Pokemon, ha kamper med de, eller er bare glad i de søte/rare/kule monstrene? Da er dette TTRPG systemet for deg. \n<p>&nbsp;\n<p>Et system laget av fans, her får du opplevd hvordan de klassiske Pokemon RPG spillene føles som en TTRPG! Vi innviterer deg til timer med gøy og spennende spilling og rollespill!\n<p>&nbsp;\n<p><b>ENGLISH</b>: Are you a fan of the Pokemon games? Do you enjoy catching Pokemon? Battling with them? Or just think they are neat? Then this is the TTRPG system for you!\n<p>&nbsp;\n<p>A system made by fans, here you'll experience how the classic Pokemon RPG games would be like as a TTRPG! We invite you to participate in hours of fun and exciting gameplay and roleplay!\"\n",
+        "gameType": "Rollespill",
+        "lastUpdated": {
+            "seconds": 1696683883,
+            "nanoseconds": 992000000
+        },
+        "id": "16ezgmkATFy0afYRw4d7"
+    },
+    {
+        "moreThanSixHours": false,
+        "room": "",
+        "published": true,
+        "lessThanThreeHours": false,
+        "gameSystem": "Honey Heist",
+        "lastUpdated": {
+            "seconds": 1696683869,
+            "nanoseconds": 982000000
+        },
+        "title": "Veganernes Hevn",
+        "adultsOnly": false,
+        "gameType": "Rollespill",
+        "subtitle": "Bjørnerådet har et problem",
+        "createdAt": {
+            "seconds": 1696683869,
+            "nanoseconds": 982000000
+        },
+        "childFriendly": true,
+        "volunteersPossible": false,
+        "sortingIndex": 5,
+        "description": "Sult rammer bjørnene etter at stadig flere bikuber blir samlet og forsvart av en paramilitær gruppe mennesker, og flere og flere bjørner blir tvunget til å livnære seg på nedverdigende mat fra søppelcontainere, dårlig bevoktet oppdrettsslaks og til og med MacDonalds Drive Thru... \n<p>&nbsp;\n<p>Dette legger en kraftig demper på stemningen blant bjørnene generelt, og lukten bak dritetreet ved Bamsefars hytte har gått fra motbydelig til regelrett giftig etter hans nye McFlurry-addiction, og Bjørnerådet bestemmer seg for å innføre strakstiltak for å bli kvitt dette ondet en gang for alle. \n<p>&nbsp;\n<p>En gruppe infiltratorer skal samles for å komme til bunns i mysteriet, og ta de nødvendige grep for å bli kvitt problemet - koste hva det koste vil!",
+        "host": "Rune Aaland",
+        "imageUrl": "/image/programm/HoneyHeist.jpg",
+        "pool": "Søndag Morgen",
+        "hideEnrollment": false,
+        "possiblyEnglish": false,
+        "beginnerFriendly": true,
+        "id": "3XCu7iim4kCnHr5ObA7o"
+    },
+    {
+        "published": true,
+        "host": "Bjørn Ove Asprem",
+        "title": "Brudefølget i Myrkdalen",
+        "beginnerFriendly": true,
+        "createdAt": {
+            "seconds": 1696682456,
+            "nanoseconds": 926000000
+        },
+        "subtitle": "Hvor har det blitt av dem?",
+        "lessThanThreeHours": false,
+        "childFriendly": false,
+        "room": "",
+        "description": "Et helt brudefølge har på mystisk vis forsvunnet fra den lille bygda Myrkdalen, og Bergens konstabelkorps står uten spor. I et desperat siste forsøk rekrutteres medlemmer av det mystiske Selskapet for å finne de savnede. ",
+        "sortingIndex": 5,
+        "volunteersPossible": true,
+        "lastUpdated": {
+            "seconds": 1696682456,
+            "nanoseconds": 926000000
+        },
+        "possiblyEnglish": false,
+        "pool": "Lørdag Kveld",
+        "adultsOnly": false,
+        "gameSystem": "Vaesen",
+        "moreThanSixHours": false,
+        "imageUrl": "/image/programm/Vaesen.jpg",
+        "hideEnrollment": false,
+        "gameType": "Rollespill",
+        "id": "4dpZjsTAiHEKU15Fq33T"
+    },
+    {
+        "title": "Makt korrumperer",
+        "moreThanSixHours": false,
+        "host": "Øyvind Strømmen",
+        "lastUpdated": {
+            "seconds": 1695832946,
+            "nanoseconds": 724000000
+        },
+        "createdAt": {
+            "seconds": 1695832946,
+            "nanoseconds": 724000000
+        },
+        "imageUrl": "/image/programm/ToBeAnnounced.jpg",
+        "possiblyEnglish": false,
+        "subtitle": "Kan eventyrarane redda dagen?",
+        "beginnerFriendly": false,
+        "published": true,
+        "sortingIndex": 10,
+        "volunteersPossible": false,
+        "hideEnrollment": false,
+        "gameSystem": "Beist",
+        "lessThanThreeHours": false,
+        "pool": "Fredag Kveld",
+        "childFriendly": false,
+        "adultsOnly": false,
+        "room": "",
+        "description": "<p>Bli med og speltest Beist, eit fantasy-rollespelsystem basert på Powered by The Apocalypse.\n<p>&nbsp;\n<p>Ein gutunge har forsvunne frå den vesle landsbyen Globris, og det heile vert snart sett i samband med vitneobservasjonar av eit grufullt beist. Eventyrarane får i oppdrag å finna guten, men kjem på sporet av meir enn eit monster.",
+        "gameType": "Rollespill",
+        "id": "8BYdXOvcSvgmOOAZeRno"
+    },
+    {
+        "createdAt": {
+            "seconds": 1696182430,
+            "nanoseconds": 821000000
+        },
+        "volunteersPossible": false,
+        "hideEnrollment": false,
+        "lessThanThreeHours": false,
+        "moreThanSixHours": false,
+        "lastUpdated": {
+            "seconds": 1696182430,
+            "nanoseconds": 821000000
+        },
+        "gameSystem": "Old-School Essentials",
+        "title": "Winter's Daughter",
+        "adultsOnly": false,
+        "pool": "Fredag Kveld",
+        "room": "",
+        "possiblyEnglish": true,
+        "imageUrl": "/image/programm/OldSchoolEssentials.jpg",
+        "subtitle": "",
+        "beginnerFriendly": true,
+        "gameType": "Rollespill",
+        "published": true,
+        "description": "The tomb of an ancient hero, lost in the tangled depths of the woods. A ring of standing stones, guarded by the sinister Drune cult. A fairy princess who watches with ageless patience from beyond the veil of the mortal. A forgotten treasure that holds the key to her heart.",
+        "host": "Daniel Strand",
+        "childFriendly": false,
+        "sortingIndex": 5,
+        "id": "8ZOmHXxb1PG3rcKrW1ei"
+    },
+    {
+        "pool": "Lørdag Kveld",
+        "subtitle": "",
+        "moreThanSixHours": false,
+        "possiblyEnglish": false,
+        "hideEnrollment": false,
+        "sortingIndex": 5,
+        "createdAt": {
+            "seconds": 1696183064,
+            "nanoseconds": 144000000
+        },
+        "lessThanThreeHours": false,
+        "host": "Kent Wold Christensen",
+        "title": "Sorgens huler",
+        "gameType": "Rollespill",
+        "room": "",
+        "description": "<p>I landsbyen Rustheim har en liten jentunge forsvunnet sporløst mens hun var ute og gjette kyrne. Folk har lett etter henne overalt uten hell, og hun er nå antatt død: drept av rovdyr eller et omstreifende monster. Men er det hva som egentlig skjedde? Og hvorfor er det ingen som tør gå i nærheten av de gamle dvergehulene i Svartåsen? Kanskje kan noen omreisende eventyrere komme til bunns i forsvinningen.\n<p>&nbsp;\n<p>I <i>Forbidden Lands</i> spiller man eventyrere og skattejegere i en ukjent og farlig verden, som bare nylig har åpnet opp igjen etter den dødelige blodtåka som har ligget over landet i generasjoner. Der ute venter gamle ruiner og grotter, monstre og gale fanatikere, men kanskje også rikdom og berømmelse, for de som lever lenge nok.\n\"",
+        "lastUpdated": {
+            "seconds": 1696183064,
+            "nanoseconds": 144000000
+        },
+        "adultsOnly": false,
+        "imageUrl": "/image/programm/ForbiddenLands2.jpg",
+        "published": true,
+        "childFriendly": false,
+        "beginnerFriendly": true,
+        "volunteersPossible": false,
+        "gameSystem": "Forbidden Lands",
+        "id": "8onQZeQnfsf5OuJGsOTq"
+    },
+    {
+        "published": true,
+        "adultsOnly": false,
+        "lessThanThreeHours": true,
+        "imageUrl": "/image/programm/Netrunner.avif",
+        "childFriendly": false,
+        "description": "Netrunner, eit assymetrisk cyberpunk-kortspel der du er ein runner som prøvar å hacke seg inn i serverane til skumle megacorporations, eller ein megacorporation som prøver å maksimere profitt og halde ekle runnerar vekk fra bedriftshemmelighetane dine. Prøv kortspelet som er så bra at ein undergrunnsbevegelse av fansen holdt det i live etter at det døde ut. ",
+        "moreThanSixHours": false,
+        "sortingIndex": 5,
+        "createdAt": {
+            "seconds": 1696079087,
+            "nanoseconds": 196000000
+        },
+        "pool": "Lørdag Morgen",
+        "volunteersPossible": false,
+        "gameSystem": "",
+        "host": "",
+        "room": "",
+        "beginnerFriendly": true,
+        "hideEnrollment": false,
+        "lastUpdated": {
+            "seconds": 1696079087,
+            "nanoseconds": 196000000
+        },
+        "gameType": "Annet",
+        "possiblyEnglish": true,
+        "subtitle": "",
+        "title": "Netrunner Demo",
+        "id": "AtR6EM6LMqqM51TZatkw"
+    },
+    {
+        "host": "",
+        "subtitle": "",
+        "hideEnrollment": false,
+        "published": false,
+        "pool": "Ingen",
+        "title": "",
+        "description": "",
+        "sortingIndex": 0,
+        "createdAt": {
+            "seconds": 1695672171,
+            "nanoseconds": 177000000
+        },
+        "gameType": "Ingen",
+        "lastUpdated": {
+            "seconds": 1695672171,
+            "nanoseconds": 177000000
+        },
+        "room": "",
+        "imageUrl": "",
+        "gameSystem": "",
+        "id": "Cz0ZgjEIL5mYcYUGwMqv"
+    },
+    {
+        "gameSystem": "The One Ring",
+        "lessThanThreeHours": false,
+        "adultsOnly": false,
+        "beginnerFriendly": false,
+        "possiblyEnglish": false,
+        "childFriendly": false,
+        "published": true,
+        "sortingIndex": 5,
+        "hideEnrollment": false,
+        "volunteersPossible": false,
+        "createdAt": {
+            "seconds": 1696664104,
+            "nanoseconds": 15000000
+        },
+        "pool": "Lørdag Kveld",
+        "imageUrl": "/image/programm/TheOneRing.jpg",
+        "room": "",
+        "moreThanSixHours": false,
+        "subtitle": "Spel med ein Tolkien-ekspert",
+        "description": "Vår internasjonale gjest, Tomasz Z. Majkowski, er spelforskar, litteraturvitar og Tolkienekspert ved det Jagiellonske Universitet i Krakow, Polen.\n\nHan er rollespelforfattar og har omsatt rollespel som Call of Cthulhu, Deadlands og The One Ring til polsk, og har tidlegare gjesta Regncon. Å spele med Tomasz er ei oppleving for livet!",
+        "gameType": "Rollespill",
+        "title": "The One Ring",
+        "lastUpdated": {
+            "seconds": 1696664104,
+            "nanoseconds": 15000000
+        },
+        "host": "Tomasz Z. Majowski",
+        "id": "DdfAbe6pJURz81c5GxCj"
+    },
+    {
+        "adultsOnly": true,
+        "lessThanThreeHours": false,
+        "subtitle": "",
+        "volunteersPossible": false,
+        "createdAt": {
+            "seconds": 1696574666,
+            "nanoseconds": 39000000
+        },
+        "lastUpdated": {
+            "seconds": 1696574666,
+            "nanoseconds": 39000000
+        },
+        "hideEnrollment": false,
+        "sortingIndex": 5,
+        "gameType": "Rollespill",
+        "moreThanSixHours": true,
+        "published": true,
+        "imageUrl": "/image/programm/CallOfCthulhu2.jpg",
+        "description": "<p>Et mystisk brev fra et advokatfirma  du ikke kjenner noe til og et avisutklipp om et mord er alt du fikk. Kan en egentlig si nei til slikt? \n<p>&nbsp;\n<p>Ut av vinduet i bilen brytes lyset forsiktig igjennom dråpene som renner over ruten. Klokken er bare litt over syv, men det er allerede mørkt ute. Gaten er tom, og som enhver liten by utforbi boston er det ingen og intet som skiller seg ut. Bortsett fra skiltet. Metallskiltet lyser klart opp på murveggen av lampen over, og får en varm glød i kontrast med dråpene  der de renner sakte ned; \"Dodge Brothers, attorneys at law\"",
+        "pool": "Lørdag Kveld",
+        "gameSystem": "Call of Cthulhu",
+        "title": "A dodgy request",
+        "beginnerFriendly": true,
+        "host": "Oskar Leirvåg",
+        "possiblyEnglish": true,
+        "room": "",
+        "childFriendly": false,
+        "id": "DlcAnNHYXsD5p8LvTrNa"
+    },
+    {
+        "lastUpdated": {
+            "seconds": 1696683850,
+            "nanoseconds": 266000000
+        },
+        "beginnerFriendly": true,
+        "childFriendly": false,
+        "lessThanThreeHours": false,
+        "published": true,
+        "gameType": "Rollespill",
+        "description": "<p>I dette eventyret sendes heltene ut på et skjebnesvangert diplomatisk oppdrag for å megle mellom steindvergene og skyfolket. Hvilke mørke hemmeligheter gjemmer seg blant de syv majestetiske fjellene i Sørhorntindene?\n<p>&nbsp;\n<p><i>Dragepust er et rollespill satt i en nordisk fantasysetting skrevet av Michael S. Sollien, Nicolai Krogsrud-Strøm og Simen L. Stangeland.\n<p>&nbsp;\n<p>Verden holdes sammen av en massiv kraftstråle midt i hovedstaden Nürn Alkham. Alver, dverger og mennesker lever sammen i en skjør fred nå som de har gjenvunnet makten etter mørketiden, men noe truer med å ødelegge det hele. Onde dragefyrster slumrer mens de forpurrer innbyggernes sinn og gjør dem til slaver av sin vilje. Dragene søker å ødelegge himmelnålen og legge en ny mørketid over verden.\n<p>&nbsp;\n<p>Dragepust er lett å spillede med regler som ikke kommer i veien for historien uten å være en lettvekter. Man ruller to sekssidede terninger for å se om man klarer det man prøver på og man kan bruke vilje og hjelp fra andre roller for å gjøre rullene lettere. Vandrer man i områder påvirket av dragepust er det fare for at rollens sinn blir forpurret og uventede ting kan skje.",
+        "subtitle": "et skjebnesvangert diplomatisk oppdrag",
+        "createdAt": {
+            "seconds": 1696683850,
+            "nanoseconds": 266000000
+        },
+        "hideEnrollment": false,
+        "volunteersPossible": false,
+        "sortingIndex": 5,
+        "imageUrl": "/image/programm/Dragepust2.jpg",
+        "room": "",
+        "possiblyEnglish": false,
+        "host": "Michael Stensen Sollien",
+        "moreThanSixHours": false,
+        "adultsOnly": false,
+        "title": "Dragepust: Under syv fjell",
+        "pool": "Søndag Morgen",
+        "gameSystem": "Dragepust",
+        "id": "Dsnlr3CT1INqrP8UBomF"
+    },
+    {
+        "moreThanSixHours": false,
+        "title": "Brettspill Fredag Kveld",
+        "description": "Spel brettspel frå brettspelbiblioteket til Regncon. Vi har mange å velge mellom. Meld deg på denne aktiviteten for å finna nokon å spele saman med",
+        "lessThanThreeHours": false,
+        "published": true,
+        "lastUpdated": {
+            "seconds": 1695812552,
+            "nanoseconds": 266000000
+        },
+        "imageUrl": "/image/programm/Brettspill.jpg",
+        "createdAt": {
+            "seconds": 1695812552,
+            "nanoseconds": 266000000
+        },
+        "childFriendly": false,
+        "beginnerFriendly": false,
+        "adultsOnly": false,
+        "pool": "Fredag Kveld",
+        "subtitle": "Spel brettspel frå brettspelbiblioteket til Regncon",
+        "hideEnrollment": false,
+        "gameSystem": "",
+        "gameType": "Brettspill",
+        "volunteersPossible": false,
+        "sortingIndex": 9,
+        "host": "",
+        "possiblyEnglish": false,
+        "room": "",
+        "id": "EWKp69uR4ju9BkOZzHw5"
+    },
+    {
+        "hideEnrollment": false,
+        "description": "Alice is missing er et stille rollespill som handler om forsvinningen av Alice Briarwood, en videregående elev fra den lille byen Silent Falls. Gjennom spillet kommuniserer spillerne via sms (vi bruker Discord), mens de løper gatelangs for å finne venninnen sin. Klarer dere å finne Alice?",
+        "imageUrl": "/image/programm/AliceIsMissing.jpg",
+        "published": true,
+        "gameSystem": "",
+        "createdAt": {
+            "seconds": 1696401950,
+            "nanoseconds": 31000000
+        },
+        "title": "Alice is missing",
+        "childFriendly": false,
+        "possiblyEnglish": false,
+        "host": "",
+        "gameType": "Rollespill",
+        "moreThanSixHours": false,
+        "adultsOnly": false,
+        "volunteersPossible": false,
+        "lessThanThreeHours": true,
+        "room": "",
+        "lastUpdated": {
+            "seconds": 1696401950,
+            "nanoseconds": 31000000
+        },
+        "pool": "Fredag Kveld",
+        "sortingIndex": 5,
+        "subtitle": "",
+        "beginnerFriendly": true,
+        "id": "GH4kdy0g5dVN3qb98V32"
+    },
+    {
+        "createdAt": {
+            "seconds": 1696614218,
+            "nanoseconds": 607000000
+        },
+        "hideEnrollment": false,
+        "room": "",
+        "volunteersPossible": true,
+        "published": true,
+        "beginnerFriendly": true,
+        "possiblyEnglish": false,
+        "subtitle": "Bonderomantikk, humor og grøss",
+        "pool": "Lørdag Morgen",
+        "title": "Sevjen stiger",
+        "childFriendly": false,
+        "sortingIndex": 5,
+        "gameType": "Rollespill",
+        "gameSystem": " Vaesen",
+        "moreThanSixHours": false,
+        "imageUrl": "/image/programm/Vaesen2.jpg",
+        "adultsOnly": false,
+        "lastUpdated": {
+            "seconds": 1696614218,
+            "nanoseconds": 607000000
+        },
+        "host": "Truls L",
+        "description": "<p>Storbondesønnen Lars ønsker å gifte seg med sin kjæreste Kiersti. Dessverre for det unge paret, nekter Lars sin far, Knut, å godkjenne dette.\n<p>&nbsp;\n<p>Lars har leid dere inn for å jage vekk en haugtusse som bor i ei tue på gården, slik at Knut kan grave en ny potetkjeller der, i håp om at han i bytte mot dette vil gå med på giftemålet. \n<p>&nbsp;\n<p>Men er oppgaven så enkel som den virker? Vil Knut gå med på dette? Og hva er egentlig grunnen til at Knut er imot giftemålet i utgangspunktet?\n<p>&nbsp;\n<p>Stikkord: bonderomantikk, humor, grøss, dilemmaer",
+        "lessThanThreeHours": false,
+        "id": "GdRhxtehY09tYmVwOQDV"
+    },
+    {
+        "sortingIndex": 5,
+        "imageUrl": "/image/programm/ForbiddenLands.jpg",
+        "published": true,
+        "possiblyEnglish": false,
+        "beginnerFriendly": true,
+        "title": "Utreise",
+        "moreThanSixHours": false,
+        "description": "<p>Så lenge noen kan huske har blodtåken kommet sigende opp av bakken hver natt og tatt livet av alle som ikke var trygt hjemme i sitt eget hus. Den har ligget som et dødelig teppe over Ravenland og isolert dets innbyggere. Men for noen år siden begynte den å forsvinne. Først var det bare en og annen natt den ikke kom, så kunne det gå noen dager mellom hver gang, så noen uker, så noen måneder, før den til slutt ikke viste seg mer. Det er snart ett år siden.</p>\n\n<p>I landsbyen Eikheim har noen modige sjeler bestemt seg for å legge ut i det ukjente. Det skal, i følge gamle historier, ligge en landsby en dag eller to mot vest. Kanskje det kan være et godt sted å begynne?</p>\n\n<p>I <i>Forbidden Lands</i> spiller man eventyrere og skattejegere i en ukjent og farlig verden, som man bare har hørt om gjennom nedarvede sanger og legender. Der ute venter fremmede steder, gamle ruiner og grotter, monstre og gale fanatikere, men også rikdom og berømmelse, for de som lever lenge nok.</p>",
+        "childFriendly": false,
+        "createdAt": {
+            "seconds": 1696061604,
+            "nanoseconds": 695000000
+        },
+        "volunteersPossible": false,
+        "pool": "Fredag Kveld",
+        "hideEnrollment": false,
+        "lessThanThreeHours": false,
+        "gameType": "Rollespill",
+        "subtitle": "Blodtåken er borte, men hva ligger der ute?",
+        "host": "Kent Wold Christensen",
+        "room": "",
+        "adultsOnly": false,
+        "gameSystem": "Forbidden Lands",
+        "lastUpdated": {
+            "seconds": 1696061604,
+            "nanoseconds": 695000000
+        },
+        "id": "HPqG7WLAqii0BQaoSymW"
+    },
+    {
+        "gameSystem": "",
+        "description": "",
+        "host": "",
+        "pool": "Ingen",
+        "subtitle": "",
+        "lastUpdated": {
+            "seconds": 1695313193,
+            "nanoseconds": 266000000
+        },
+        "title": "Enda en test",
+        "room": "Ett rom som er bra",
+        "gameType": "Ingen",
+        "createdAt": {
+            "seconds": 1695313193,
+            "nanoseconds": 266000000
+        },
+        "published": false,
+        "id": "I791R7uxwAnxCFzHHlV6"
+    },
+    {
+        "description": "Puljepåmelding stenger kl 10:30\nOpprop kl 11",
+        "beginnerFriendly": true,
+        "lastUpdated": {
+            "seconds": 1696748871,
+            "nanoseconds": 282000000
+        },
+        "possiblyEnglish": false,
+        "title": "Innsjekk Søndag morgen Kl 10:00 - 11:00",
+        "gameType": "Annet",
+        "moreThanSixHours": false,
+        "pool": "Søndag Morgen",
+        "room": "",
+        "sortingIndex": 1,
+        "imageUrl": "/image/placeholder.jpg",
+        "adultsOnly": false,
+        "gameSystem": "",
+        "childFriendly": false,
+        "published": true,
+        "subtitle": "Puljepåmelding stenger kl 10:30",
+        "hideEnrollment": true,
+        "createdAt": {
+            "seconds": 1696748871,
+            "nanoseconds": 282000000
+        },
+        "volunteersPossible": false,
+        "lessThanThreeHours": false,
+        "host": "",
+        "id": "IY5NQeZfqH9UWcIKNBwc"
+    },
+    {
+        "adultsOnly": false,
+        "title": "Hurtalak's Grave",
+        "lastUpdated": {
+            "seconds": 1696682442,
+            "nanoseconds": 258000000
+        },
+        "host": "Fabio Massimo Zennaro",
+        "lessThanThreeHours": false,
+        "published": true,
+        "description": "Your town, lost deep in the desert sands of Athas, has long awaited the arrival of the thri-kreen merchants, which are its life blood. When their caravan, however, does not appear at the appointed time, the players must set out to find them, and quickly too, if the town is to survive. This adventure will introduce players to the harsh and unforgiving world of Dark Sun.",
+        "createdAt": {
+            "seconds": 1696682442,
+            "nanoseconds": 258000000
+        },
+        "subtitle": "a Dark Sun adventure",
+        "imageUrl": "/image/programm/Dnd35.jpg",
+        "moreThanSixHours": false,
+        "gameSystem": "D&D 3.5",
+        "beginnerFriendly": true,
+        "room": "",
+        "pool": "Lørdag Kveld",
+        "gameType": "Rollespill",
+        "sortingIndex": 4,
+        "hideEnrollment": false,
+        "volunteersPossible": true,
+        "childFriendly": false,
+        "possiblyEnglish": true,
+        "id": "IqpmooM16Lfdx5t0nlsI"
+    },
+    {
+        "pool": "Søndag Morgen",
+        "room": "",
+        "title": "Ørnepatruljen",
+        "childFriendly": true,
+        "volunteersPossible": true,
+        "beginnerFriendly": true,
+        "gameSystem": "Draug (Fudge)",
+        "subtitle": "Ingen ild uten røyk",
+        "createdAt": {
+            "seconds": 1696683834,
+            "nanoseconds": 693000000
+        },
+        "imageUrl": "/image/programm/ornepatruljen.jpg",
+        "hideEnrollment": false,
+        "published": true,
+        "adultsOnly": false,
+        "description": "Året er 1916, datoen er 15. januar og klokken er litt over fire. Uvitende om at Bergen denne januardagen er på vei inn i en av de ovenfor en av de største og mest traumatiske hendelsene i byens historie, holder Ørnepatruljen på å forberede troppens årlige juletrefest i festsalen i Ynglingen på Korskirkeallmenningen. Bli med våre venner inn i historien, kan Ørnepatruljens handlinger endre på det som er i ferd med å skje?",
+        "lessThanThreeHours": false,
+        "sortingIndex": 5,
+        "host": "Rune Vidareid",
+        "gameType": "Rollespill",
+        "possiblyEnglish": false,
+        "moreThanSixHours": false,
+        "lastUpdated": {
+            "seconds": 1696683834,
+            "nanoseconds": 693000000
+        },
+        "id": "JbpmuYR8OXoKTlYEy6KS"
+    },
+    {
+        "possiblyEnglish": true,
+        "title": "Oath: Chronicles of Empire and Exile",
+        "room": "",
+        "volunteersPossible": false,
+        "gameSystem": "",
+        "hideEnrollment": false,
+        "sortingIndex": 5,
+        "host": "Tobias Staaby ",
+        "subtitle": "et engasjerende strategispill",
+        "childFriendly": false,
+        "description": "<p><i>Oath: Chronicles of Empire and Exile</i> er et engasjerende strategispill med lette RPG-elementer for inntil seks spillere. \n<p>&nbsp;\n<p>I rollen som innflytelsesrike figurer i et gammelt land, styrer spillerne historiens gang. Én av spillerne inntar rollen som kansler, hvis oppgave er å holde på makten så godt de kan. De andre spillerne kan velge å støtte kanslerens makt eller konspirere for å kaste kongeriket ut i kaos. \n<p>&nbsp;\n<p>Kartet endres dynamisk i løpet av spillets gang etter hvert som spillerne utforsker nye landområder og spiller kort fra hånden sin som gir disse områdene nye landemerker, steder og innbyggere. Handlingene og konsekvensene i ett spill overføres til de påfølgende spillene, som kan endre tilgjengelige ressurser, mulige handlinger, og kan til og med påvirke hvordan man vinner eller taper spillet. ",
+        "imageUrl": "/image/programm/Oath.jpg",
+        "lessThanThreeHours": false,
+        "published": true,
+        "pool": "Lørdag Morgen",
+        "beginnerFriendly": false,
+        "lastUpdated": {
+            "seconds": 1696614231,
+            "nanoseconds": 91000000
+        },
+        "moreThanSixHours": false,
+        "createdAt": {
+            "seconds": 1696614231,
+            "nanoseconds": 91000000
+        },
+        "gameType": "Brettspill",
+        "adultsOnly": false,
+        "id": "JePMqywuGyUj9qLTNMYr"
+    },
+    {
+        "sortingIndex": 5,
+        "description": "<p>Bli med og speltest <i>Beist</i>, eit fantasysystem basert på Powered-by-the-Apocalypse.\n<p>&nbsp;\n<p>Huvald den hårete har eitt problem. Kongen har gått lei av at han alltid lagar bråk på slottsballa, og har difor erklært sin fjerne slektning som baron av de fjerntliggande provinsen Vandelmyr, og i grunnen stort sett ei gigantisk myr. \n<p>&nbsp;\n<p>Vel framme i landsbyen Vandel har Huvald oppdaga to ting: Det er ikkje nett verdas navle. Landsbyen består berre av nokre titalls sjeler, og \"slottet\" til Huvald er ikkje mykje til slott, berre eit hus som er litt større enn dei andre sitt. Det går rett nok rykte om at det ligg nokre gamle slottsruinar ein stad ute i myra, men dit nektar landsbybebuarane å ta seg, uansett kva han truer med. Vandel er dessutan ikkje ein stad flust av eventyrarar. Uflaks. \n<p>&nbsp;\n<p>Men så dukkar ei gruppe eventyrarar opp likevel, skjønt dei verkar å vera glade amatørar. Vel, kor gale kan det gå? Huvald den hårete har trua. Han har dessutan ein pung med gullmyntar. Og ei tønne av kongens beste vin. ",
+        "createdAt": {
+            "seconds": 1696614242,
+            "nanoseconds": 192000000
+        },
+        "subtitle": "ei historie om skrømt",
+        "room": "",
+        "host": "Øyvind Strømmen",
+        "pool": "Lørdag Morgen",
+        "lessThanThreeHours": false,
+        "adultsOnly": false,
+        "possiblyEnglish": false,
+        "title": "Ruinen i Vandelmyr",
+        "beginnerFriendly": true,
+        "lastUpdated": {
+            "seconds": 1696614242,
+            "nanoseconds": 192000000
+        },
+        "gameType": "Rollespill",
+        "volunteersPossible": false,
+        "hideEnrollment": false,
+        "childFriendly": false,
+        "published": true,
+        "gameSystem": "Beist",
+        "imageUrl": "/image/programm/Beist.jpg",
+        "moreThanSixHours": false,
+        "id": "N8WvwChTx6827ZDg0OXi"
+    },
+    {
+        "possiblyEnglish": false,
+        "hideEnrollment": false,
+        "gameType": "Brettspill",
+        "moreThanSixHours": false,
+        "description": "Spel brettspel frå brettspelbiblioteket til Regncon. Vi har mange å velge mellom. Meld deg på denne aktiviteten for å finna nokon å spele saman med",
+        "gameSystem": "",
+        "host": "",
+        "published": true,
+        "createdAt": {
+            "seconds": 1695812699,
+            "nanoseconds": 812000000
+        },
+        "adultsOnly": false,
+        "subtitle": "Spel brettspel frå brettspelbiblioteket til Regncon",
+        "volunteersPossible": false,
+        "title": "Brettspill Lørdag Morgen",
+        "lessThanThreeHours": false,
+        "imageUrl": "/image/programm/Brettspill.jpg",
+        "lastUpdated": {
+            "seconds": 1695812699,
+            "nanoseconds": 812000000
+        },
+        "pool": "Lørdag Morgen",
+        "sortingIndex": 9,
+        "childFriendly": false,
+        "beginnerFriendly": false,
+        "room": "",
+        "id": "OJj5bqwcZu3xF3kUmCHu"
+    },
+    {
+        "imageUrl": "/image/programm/EZD62.jpg",
+        "description": "<p><i>Trøllabundin</i> er en spennende saga som tar et dypdykk inn i tiden etter slaget ved Stamford Bridge i 1066. Det er en mørk tid med uår, sott , død og ulykke. Sommeren kom aldri. De gamle snakker om fimbulvinter og sult. En dag settes krefter i sving som vil avgjøre verdens skjebne. Er du klar til å bli Trøllabundin?\n<p>&nbsp;\n<p>Spillet blir ført på norsk. Anbefales for voksne da spillet kan inneholde sterke skildringer,  grøss, et samfunn vi ikke deler våre verdier med i dag og moralske dilemma.",
+        "room": "",
+        "adultsOnly": true,
+        "volunteersPossible": false,
+        "possiblyEnglish": false,
+        "sortingIndex": 5,
+        "hideEnrollment": false,
+        "moreThanSixHours": false,
+        "pool": "Lørdag Kveld",
+        "host": "Morten Berserker Magnus",
+        "title": "Trøllabundin",
+        "childFriendly": false,
+        "published": true,
+        "gameType": "Rollespill",
+        "beginnerFriendly": false,
+        "lessThanThreeHours": false,
+        "lastUpdated": {
+            "seconds": 1696682400,
+            "nanoseconds": 592000000
+        },
+        "subtitle": "Sommeren kom aldri",
+        "createdAt": {
+            "seconds": 1696682400,
+            "nanoseconds": 592000000
+        },
+        "gameSystem": "EZD6 (Cthulhu)",
+        "id": "PA6nNUwQCIhkdPKLnj4u"
+    },
+    {
+        "possiblyEnglish": true,
+        "gameType": "Annet",
+        "beginnerFriendly": true,
+        "lessThanThreeHours": true,
+        "pool": "Søndag Morgen",
+        "host": "Tobias Staaby ",
+        "published": true,
+        "moreThanSixHours": true,
+        "childFriendly": false,
+        "sortingIndex": 5,
+        "gameSystem": "",
+        "imageUrl": " /image/programm/BloodOnTheClocktower2.jpg",
+        "subtitle": "Social Deduction",
+        "lastUpdated": {
+            "seconds": 1696683819,
+            "nanoseconds": 358000000
+        },
+        "description": "<i>Blood on the Clocktower</i> er et sosialt deduksjonsspill (Mafia, Werewolf, Secret Hitler) for opptil femten spillere. \n<p>&nbsp;\n<p>I den tilsynelatende fredelige byen Ravenswood Bluff skjuler en demon seg, som hver natt tar livet av en uskyldig landsbyboer. Spillerne tar på seg roller entrn som landsbyboere og outsidere, som må samarbeide for å luke ut demonen, demonen og dens minions, som må ta livet av de andre spillerne mens holder demonen identitet hemmelig. Hver spiller har sine unike evner som gir dem informasjon om andre spilleres identitet, eller lar dem påvirke dem på ulike måter.\n<p>&nbsp;\n<p>Unikt ved Blood on the Clocktower er at døde spillere fortsatt kan delta og påvirke spillets utfall, og ingen er helt ute av spillet før det er slutt. Spillet har også en \"gamemaster\" som vil fatte ulike avgjørelser i løpet av spillets gang for å holde det balansert og spennende for alle. ",
+        "hideEnrollment": false,
+        "createdAt": {
+            "seconds": 1696683819,
+            "nanoseconds": 358000000
+        },
+        "volunteersPossible": false,
+        "title": "Blood on the Clocktower",
+        "room": "",
+        "adultsOnly": false,
+        "id": "PYQpq3ElvTKoMmaMcZIO"
+    },
+    {
+        "moreThanSixHours": false,
+        "lastUpdated": {
+            "seconds": 1696682381,
+            "nanoseconds": 229000000
+        },
+        "adultsOnly": true,
+        "hideEnrollment": false,
+        "volunteersPossible": false,
+        "published": true,
+        "lessThanThreeHours": false,
+        "gameType": "Rollespill",
+        "host": "Maja Hvalryg Kvendseth",
+        "sortingIndex": 5,
+        "subtitle": "en trussel i isødet",
+        "possiblyEnglish": true,
+        "gameSystem": "Cthulhu Dark",
+        "room": "",
+        "title": "Tausheten",
+        "beginnerFriendly": true,
+        "imageUrl": "/image/programm/CthulhuDark.jpg",
+        "pool": "Lørdag Kveld",
+        "description": "<p>Gruvebyen Barentsburg: en russisk enklave i Svalbards isøde. Hit kommer en gravejournalist med et lite team - fotograf, guide, og tolk - for å finne ut hvor sterkt grep Putins lakeier har over innbyggerne på norsk jord. Den største trusselen viser seg likevel å være en helt annen...\n<p>&nbsp;\n<p><i>Cthulhu Dark</i> er et forenklet spillsystem som lar spillerne fokusere på rollene og fortellingen. Rollene til <i>Tausheten</i> kommer med et ferdig konsept, men spillerne kan selv bestemme hvordan rollen skal fylles og spilles.\n<p>&nbsp;\n<p>Spillsystemet forklares før vi starter. Ingen forkunnskap nødvendig. ",
+        "createdAt": {
+            "seconds": 1696682381,
+            "nanoseconds": 229000000
+        },
+        "childFriendly": false,
+        "id": "Q0kRqe8IZnVAbfS3fOvj"
+    },
+    {
+        "published": false,
+        "lastUpdated": {
+            "seconds": 1695057224,
+            "nanoseconds": 201000000
+        },
+        "gameType": "Annet",
+        "host": "",
+        "pool": "Ingen",
+        "description": "En test av ett annet spill\n\n<p>skrive ting</p>\nen test\n<br/>\n\n<b> bold </b>",
+        "createdAt": {
+            "seconds": 1695057224,
+            "nanoseconds": 201000000
+        },
+        "subtitle": "En annet arangement",
+        "title": "Type ingen",
+        "gameSystem": "Ett annet spill",
+        "room": "B romet",
+        "id": "RCtikFNRmUUuaNByFZAy"
+    },
+    {
+        "room": "",
+        "createdAt": {
+            "seconds": 1696682360,
+            "nanoseconds": 268000000
+        },
+        "lessThanThreeHours": true,
+        "lastUpdated": {
+            "seconds": 1696682360,
+            "nanoseconds": 268000000
+        },
+        "hideEnrollment": false,
+        "childFriendly": false,
+        "published": true,
+        "gameSystem": "Light Rails",
+        "moreThanSixHours": false,
+        "host": "Christian Berge",
+        "sortingIndex": 5,
+        "pool": "Lørdag Kveld",
+        "subtitle": "Hvem bestemmer egentlig?",
+        "imageUrl": "/image/programm/Bryggen.jpg",
+        "volunteersPossible": false,
+        "description": "<p>Politikerne i en by har bestemt seg for at det skal bygges bybane gjennom byen. Men de er ikke heeeeeelt enige i hvor den egentlig skal gå. Debattene har vært lange og harde, og den politiske situasjonen er veldig spent.\n<p>&nbsp;\n<p>Og i kaoset som rår av koalisjonsbygging, hestehandel og skittkasting, er det ingen som merker hvem det er som egentlig står bak og trekker i trådene. Det er nemlig sju rike og sleipe eiendomskonger, som tenker å utnytte den spente politiske situasjonen i byen til sin egen fordel. Ved å bestikke akkurat de riktige politikerne på de riktige tidspunktene, er det egentlig DE som bestemmer hvor bybanen skal bygges.\n<p>&nbsp;\n<p>Men eiendomskongene er jo heller ikke enige! Skal banen gå nord for vannet, eller kanskje gjennom det gule boligfeltet? Alle vil i alle fall at den skal gå forbi de eiendommene de sjøl eier, for det er det en får mest poeng på. Kanskje finnes det også en sabotør som vil hindre at banen bygges i det hele tatt.\n<p>&nbsp;\n<p>Velkommen til <i>Light Rails</i>, et auksjonsdrevet brettspill om bybanebråk. Spilletid ca. en time.",
+        "beginnerFriendly": true,
+        "title": "Et brettspill om bybane-bråk",
+        "possiblyEnglish": true,
+        "adultsOnly": false,
+        "gameType": "Brettspill",
+        "id": "SK7TFFj7keQf7gvx6sjr"
+    },
+    {
+        "sortingIndex": 5,
+        "lastUpdated": {
+            "seconds": 1696614253,
+            "nanoseconds": 467000000
+        },
+        "room": "",
+        "lessThanThreeHours": false,
+        "createdAt": {
+            "seconds": 1696614253,
+            "nanoseconds": 467000000
+        },
+        "subtitle": "(aka Traction Action)",
+        "title": "VM i Veigrep ",
+        "volunteersPossible": false,
+        "imageUrl": "/image/programm/Veigrep.jpg",
+        "possiblyEnglish": true,
+        "published": true,
+        "host": "Christian Berge",
+        "beginnerFriendly": true,
+        "description": "<p>Adrenalin-rush i brettspillformat! En gjeng rånere har stengt av E39 på nattestid, og bruker denne til å arrangere et illegalt bilkappløp. Politiet er bestukket til å holde seg unna, og hundrevis av fans samler seg ved veien for å heie bilene til mål. Noen av dem nøyer seg ikke med å heie, men har med seg ting som hjemmelagde bomber, tidsmaskiner og elefanter for å sabotere og ha det gøy.\n<p>&nbsp;\n<p>Man er ikke helt enige i miljøet om det er lov å bruke våpen eller ikke. Men utstyr som f.eks. kanon og flammekaster er veldig populære blant publikum. Så om du skulle ønske å montere disse på bilen din, er det ingen som vil hindre deg i det. Om du derimot ikke er av det voldelige slaget, kanskje du heller velger å installere turbo, spoiler eller servostyring. I starten av spillet mekker du bilen din akkurat som du vil.\n<p>&nbsp;\n<p>Det eneste som er obligatorisk er Wunderbaum! Det er ikke lov å delta med en bil uten Wunderbaum!\n<p>&nbsp;\n<p>Man kan vinne enten ved å komme først i mål, eller ved å ødelegge de andre bilene.\n<p>&nbsp;\n<p>Elsker du spill med masse terninger og masse action der det skjer ting hele tida, så er valget enkelt: Meld deg på VM i Veigrep! \n<p>&nbsp;\n<p><i>Veigrep</i> er et hjemmelagd brettspill skapt av arrangøren. Det blir i år arrangert på RegnCon for 16. gang. Les gjerne mer om spillet, og følg oss på Facebook, på <a href=\"https://spillby.com/veigrep/\">vår hjemmeside (spillby.com)</a>\n<p>&nbsp;\n<p>I løpet av høsten planlegger vi også å legge spillet ut for salg. Så om du ønsker ditt eget eksemplar, vil det nå bli mulig.",
+        "childFriendly": false,
+        "moreThanSixHours": false,
+        "pool": "Lørdag Morgen",
+        "gameSystem": "",
+        "hideEnrollment": false,
+        "gameType": "Brettspill",
+        "adultsOnly": false,
+        "id": "SUIf0mT6tQr0Ro4f0XO1"
+    },
+    {
+        "moreThanSixHours": false,
+        "host": "",
+        "published": true,
+        "lastUpdated": {
+            "seconds": 1696682341,
+            "nanoseconds": 706000000
+        },
+        "hideEnrollment": false,
+        "adultsOnly": false,
+        "sortingIndex": 0,
+        "description": "Påmelding stenger kl 15:30\nOpprop start kl 16\n",
+        "childFriendly": false,
+        "gameType": "Rollespill",
+        "gameSystem": "",
+        "pool": "Lørdag Kveld",
+        "volunteersPossible": false,
+        "subtitle": "Puljepåmelding stenger kl 15:30",
+        "lessThanThreeHours": false,
+        "possiblyEnglish": false,
+        "createdAt": {
+            "seconds": 1696682341,
+            "nanoseconds": 706000000
+        },
+        "beginnerFriendly": false,
+        "room": "",
+        "title": "Innsjekk Lørdag Ettermiddag Kl 15:00 - 16:00",
+        "imageUrl": "/image/programm/ToBeAnnounced.jpg",
+        "id": "SXPZ8vqfjDtFY9iHEMpt"
+    },
+    {
+        "description": "<b> Bare </b> testing\nmer testing\nenda mer testing",
+        "beginnerFriendly": false,
+        "adultsOnly": false,
+        "subtitle": "En fancy undertittel",
+        "title": "Gerhard finner på noe",
+        "published": false,
+        "pool": "Fredag Kveld",
+        "sortingIndex": 0,
+        "room": "Rom A",
+        "imageUrl": "/image/placeholder.jpg",
+        "gameType": "Rollespill",
+        "moreThanSixHours": false,
+        "lessThanThreeHours": false,
+        "possiblyEnglish": false,
+        "childFriendly": false,
+        "createdAt": {
+            "seconds": 1696621599,
+            "nanoseconds": 347000000
+        },
+        "volunteersPossible": false,
+        "hideEnrollment": false,
+        "gameSystem": "Dn Dont",
+        "host": "Gerhard Just-Olsen",
+        "lastUpdated": {
+            "seconds": 1696621599,
+            "nanoseconds": 347000000
+        },
+        "id": "VjGiWjixnOED58qvWRm5"
+    },
+    {
+        "sortingIndex": 5,
+        "title": "Bakto's Terrifying Cuisine",
+        "beginnerFriendly": false,
+        "gameSystem": "",
+        "hideEnrollment": false,
+        "description": "<p><i>Dere vet ikke hvordan dere havnet der. Mulig det var en heftig fest? Mulig dere ble kidnappet av aliens? Mulig det bare er en drøm? Det spiller liten rolle. Dere står nå i noe som ligner på et backstage-område med en gruppe ukjente mennesker.</i>\n<p>&nbsp;\n<p><i>Døren åpner seg. Lysene slås på. Oi shit! Dere er deltakere på et matlagingsshow! Og verten ser ganske demonisk ut!</i>\n<p>&nbsp;\n<p>Dette er et veldig lettbeint rollespill som kjøres uten noe navngitt system. Når du prøver på noe triller du en terning, og hvordan det går avhenger av hvor godt du triller og din beskrivelse av det du prøver på. Improv-skills anbefales sterkt!",
+        "moreThanSixHours": false,
+        "subtitle": "To be announced",
+        "gameType": "Rollespill",
+        "possiblyEnglish": true,
+        "host": "Simen de Lange",
+        "lessThanThreeHours": true,
+        "pool": "Søndag Morgen",
+        "lastUpdated": {
+            "seconds": 1696666996,
+            "nanoseconds": 577000000
+        },
+        "published": true,
+        "childFriendly": false,
+        "volunteersPossible": true,
+        "adultsOnly": false,
+        "room": "",
+        "imageUrl": "/image/programm/DemonicFood.jpg",
+        "createdAt": {
+            "seconds": 1696666996,
+            "nanoseconds": 577000000
+        },
+        "id": "Y3rf7bN1f2wcUfcN7wHb"
+    },
+    {
+        "gameSystem": "",
+        "volunteersPossible": false,
+        "beginnerFriendly": false,
+        "room": "",
+        "moreThanSixHours": false,
+        "sortingIndex": 0,
+        "description": "Puljepåmelding stenger kl 09:30",
+        "childFriendly": false,
+        "pool": "Lørdag Morgen",
+        "published": true,
+        "lessThanThreeHours": false,
+        "adultsOnly": false,
+        "possiblyEnglish": false,
+        "gameType": "Rollespill",
+        "hideEnrollment": true,
+        "imageUrl": "/image/placeholder.jpg",
+        "title": "Innsjekk Lørdag morgen Kl 9:00 - 10:00",
+        "host": "",
+        "lastUpdated": {
+            "seconds": 1696614189,
+            "nanoseconds": 81000000
+        },
+        "subtitle": "Puljepåmelding stenger kl 09:30",
+        "createdAt": {
+            "seconds": 1696614189,
+            "nanoseconds": 81000000
+        },
+        "id": "YG8WLIbk1xjhSj2I9F6J"
+    },
+    {
+        "adultsOnly": false,
+        "title": "Brettspillsøndag: Karvi",
+        "pool": "Søndag Morgen",
+        "host": "Christian Berge",
+        "subtitle": "Prøv et helfersk brettspill",
+        "possiblyEnglish": true,
+        "volunteersPossible": false,
+        "gameSystem": "",
+        "createdAt": {
+            "seconds": 1696683801,
+            "nanoseconds": 52000000
+        },
+        "gameType": "Brettspill",
+        "lastUpdated": {
+            "seconds": 1696683801,
+            "nanoseconds": 52000000
+        },
+        "beginnerFriendly": true,
+        "imageUrl": "/image/programm/Karvi2.jpg",
+        "published": true,
+        "sortingIndex": 5,
+        "lessThanThreeHours": false,
+        "hideEnrollment": false,
+        "childFriendly": false,
+        "moreThanSixHours": false,
+        "room": "",
+        "description": "Dette spillet er en del av brettspillsøndagen. Vi spiller dette rett etter at vi er ferdig med <i>Tzolkin The Mayan Calendar</i> (ca. to timer etter puljestart).\n<p>&nbsp;\n<p> Spillet vil også være tilgjengelig for spill resten av puljen for dem som ønsker det.\n<p>&nbsp;\n<hr>\n<p>&nbsp;\n<p><i>Karvi</i> er årets BIG BOX fra Hans im Glück spillforlag. Det blir lansert for første gang på Essen spillmesse i år (samme helg som RegnCon), og er egentlig ikke mulig å få tak i ennå. Men RegnCon har vært så heldige at vi har klart og fått tak i en pre-print! Dere kan altså få prøve spillet på RegnCon samtidig som det blir lansert på Essen!\n<p>&nbsp;\n<p>I spillet er man norske vikinger som reiser rundt i verden for å handle og plyndre. For å gjøre det må man sørge for at man har et bra skip fullt av sterke menn. Skipet kan oppgraderes og blir bedre underveis i spillet, og vikingene kan også bli både flere og sterkere. Bare husk på at du også må fylle på med nok proviant, ellers kan ikke skipet flytte på seg! Spillet har en ganske morsom mekanikk, der man velger actions ved å flytte terninger etter hverandre. \n<p>&nbsp;\n<p>Spilletid: ca 120 minutt.\n<p>Middels+ vanskelighetsgrad (for brettspill-entusiaster som helst har spilt noen strategispill før).",
+        "id": "ZvitL9Pn0pmMGIz2AWmI"
+    },
+    {
+        "lastUpdated": {
+            "seconds": 1696522622,
+            "nanoseconds": 510000000
+        },
+        "description": "<p>Eit one-shot frå bakerst i det nye rollespelet DIE RPG, der ein spelar rollespelarar som bearbeider traumer og konsekvensar gjennom ei speleøkt. Basert på teikneserien Die av Kieron Gillen og Stephanie Hans.\n<p>&nbsp;\n<p>I denne modulen speler ein ei gruppe vaksne som har blitt overtydd av sine gamle gamemaster om å spele att, mange år etter game masteren, i sinne, utrydda partyet i ein umogleg dungeon. Vondt blod og traumer i massevis skal spadast opp i løpet av ein kort spelsesjon og gje ein smaksprøve på kva rollespelet DIE dreier seg.\n<p>&nbsp;\n<p>Egner seg best for vaksne spelarar, gjerne med nokre år med rollespel bak seg.",
+        "room": "",
+        "title": "Total Party Kill",
+        "possiblyEnglish": true,
+        "lessThanThreeHours": false,
+        "childFriendly": false,
+        "imageUrl": "/image/programm/DieRpg.jpg",
+        "createdAt": {
+            "seconds": 1696522622,
+            "nanoseconds": 510000000
+        },
+        "sortingIndex": 0,
+        "subtitle": "Vondt blod og traumer i massevis",
+        "hideEnrollment": false,
+        "gameType": "Rollespill",
+        "host": "Kristian A. Bjørkelo",
+        "published": true,
+        "gameSystem": "DIE RPG",
+        "beginnerFriendly": false,
+        "pool": "Lørdag Kveld",
+        "adultsOnly": true,
+        "moreThanSixHours": false,
+        "volunteersPossible": true,
+        "id": "bFQ3hjsIdvGpYmydEELz"
+    },
+    {
+        "gameType": "Brettspill",
+        "hideEnrollment": false,
+        "room": "",
+        "host": "",
+        "subtitle": "Mer råning på E39",
+        "moreThanSixHours": false,
+        "imageUrl": "/image/programm/Veigrep.jpg",
+        "description": "<p>Spillet er en del av brettspillsøndagen.\n<hr>\n<p>For dem som ikke fikk nok av Veigrep dagen før, blir det en ny mulighet her. Spillet blir tilgjengelig for spill hele puljen. Ved få spillere blir det ikke spilt ved puljestart, men en eller annen gang etter at Tzolk'in er ferdig.\n<p>Les mer om spillet under \"\"VM i Veigrep\"\" på lørdag, eller på vår nettside https://spillby.com/veigrep/\n",
+        "lessThanThreeHours": true,
+        "childFriendly": false,
+        "sortingIndex": 5,
+        "gameSystem": "",
+        "adultsOnly": false,
+        "possiblyEnglish": true,
+        "beginnerFriendly": true,
+        "pool": "Søndag Morgen",
+        "createdAt": {
+            "seconds": 1696683782,
+            "nanoseconds": 286000000
+        },
+        "lastUpdated": {
+            "seconds": 1696683782,
+            "nanoseconds": 286000000
+        },
+        "published": true,
+        "title": "Brettspillsøndag: Veigrep",
+        "volunteersPossible": false,
+        "id": "bWLr9MS301PrlpSbIdhF"
+    },
+    {
+        "sortingIndex": 5,
+        "title": "First they came",
+        "host": "Anne Lene L. Nymoen",
+        "published": true,
+        "gameType": "Rollespill",
+        "childFriendly": false,
+        "beginnerFriendly": false,
+        "subtitle": "",
+        "hideEnrollment": false,
+        "createdAt": {
+            "seconds": 1696437983,
+            "nanoseconds": 948000000
+        },
+        "gameSystem": "Rollespill/kammerlaiv",
+        "adultsOnly": false,
+        "room": "",
+        "imageUrl": "/image/programm/FirstTheyCame.jpg",
+        "description": "<p><i>First they came</i> er satt til en leilighet i en forstadsbolig under en grå Berlin-morgen i 1942. Dere hører \"de\" komme med sirener, og løper for å gjemme dere på det eneste stedet dere kan: loftet. Der er det mørkt, dere holder pusten, og så hører dere hvisking - dere er ikke alene.\n<p>&nbsp;\n<p>Som spiller vil du ta rollen som forfulgt av Det tredje riket, enten av etniske, politiske, kjønnsmessige eller religiøse grunner. Hoveddelen av spillet spilles i mørke eller med bind for øynene. Hvem er de andre på loftet med deg? Hvorfor er de der? Og vil politiet finne dere?\n<p>\n<p><i>Spillet kan gå på engelsk om alle spillere ønsker det.</i></p>",
+        "lastUpdated": {
+            "seconds": 1696437983,
+            "nanoseconds": 948000000
+        },
+        "pool": "Lørdag Morgen",
+        "possiblyEnglish": true,
+        "moreThanSixHours": false,
+        "lessThanThreeHours": false,
+        "volunteersPossible": false,
+        "id": "d1jhpS2gItOvh7660LJI"
+    },
+    {
+        "imageUrl": "/image/programm/Brettspill.jpg",
+        "room": "",
+        "sortingIndex": 9,
+        "adultsOnly": false,
+        "pool": "Lørdag Kveld",
+        "gameSystem": "",
+        "published": true,
+        "subtitle": "Spel brettspel frå brettspelbiblioteket til Regncon",
+        "host": "",
+        "createdAt": {
+            "seconds": 1695812731,
+            "nanoseconds": 535000000
+        },
+        "title": "Brettspill Lørdag Kveld",
+        "beginnerFriendly": false,
+        "lastUpdated": {
+            "seconds": 1695812731,
+            "nanoseconds": 535000000
+        },
+        "hideEnrollment": false,
+        "description": "Spel brettspel frå brettspelbiblioteket til Regncon. Vi har mange å velge mellom. Meld deg på denne aktiviteten for å finna nokon å spele saman med",
+        "childFriendly": false,
+        "lessThanThreeHours": false,
+        "moreThanSixHours": false,
+        "volunteersPossible": false,
+        "possiblyEnglish": false,
+        "gameType": "Brettspill",
+        "id": "fCZSqR08ufB21iLAYO5P"
+    },
+    {
+        "sortingIndex": 5,
+        "lastUpdated": {
+            "seconds": 1696751256,
+            "nanoseconds": 714000000
+        },
+        "adultsOnly": false,
+        "hideEnrollment": false,
+        "host": "",
+        "description": "<p>Vår internasjonale gjest, Tomasz Z. Majkowski, er spelforskar, litteraturvitar og Tolkienekspert ved det Jagiellonske Universitet i Krakow, Polen.\n<p>&nbsp;\n<p>Han er rollespelforfattar og har omsatt rollespel som Call of Cthulhu, Deadlands og The One Ring til polsk, og har tidlegare gjesta Regncon. Å spele med Tomasz er ei oppleving for livet!",
+        "beginnerFriendly": false,
+        "moreThanSixHours": false,
+        "lessThanThreeHours": false,
+        "possiblyEnglish": false,
+        "createdAt": {
+            "seconds": 1696751256,
+            "nanoseconds": 714000000
+        },
+        "gameSystem": "The One Ring",
+        "published": true,
+        "room": "",
+        "childFriendly": false,
+        "gameType": "Rollespill",
+        "pool": "Søndag Morgen",
+        "subtitle": "Spel med ein Tolkien-ekspert",
+        "imageUrl": "/image/programm/TheOneRing2.jpg",
+        "volunteersPossible": false,
+        "title": "The One Ring",
+        "id": "gPMynPcWNvLvgZf0jwN3"
+    },
+    {
+        "gameSystem": "Ett ikke system",
+        "gameType": "Brettspill",
+        "lastUpdate": {
+            "seconds": 1694877418,
+            "nanoseconds": 792000000
+        },
+        "subtitle": "Denne er skjult",
+        "published": false,
+        "title": "Ikke publisert",
+        "description": "Hvordan skal vi finne denne igjen?\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras euismod, augue eget dapibus consequat, elit quam rutrum dui, sed ultricies risus magna vitae massa. Proin lacinia magna eget sapien interdum, ut tempor sem dignissim. In massa nulla, consectetur ut nunc eu, vulputate bibendum metus. Pellentesque consectetur laoreet nisl, quis tempus urna venenatis ac. Nullam id magna sed augue accumsan aliquam eu id enim. Praesent feugiat enim id finibus mollis. Donec in porta justo.\n\nMauris vitae ornare augue. Etiam sollicitudin ligula ac mauris hendrerit, in vulputate elit eleifend. Vivamus accumsan, turpis a sollicitudin convallis, justo magna mattis nulla, vitae maximus ex purus a quam. In eros diam, sagittis sed neque sed, aliquet egestas sapien. Aenean vitae bibendum elit. Sed est enim, congue vitae molestie ac, condimentum et dolor. Nullam massa mauris, dapibus suscipit euismod non, aliquam non velit. Sed tincidunt, lectus vitae euismod tempus, nibh tellus vulputate ex, et blandit nunc libero ut est. Nulla facilisi. Cras at sapien leo. Praesent nisl nibh, venenatis varius sem euismod, pulvinar placerat massa. Sed vulputate a leo gravida pulvinar. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam mattis viverra posuere. Quisque malesuada ligula ut nisl maximus efficitur. Duis nec lacus vel turpis placerat mattis ut et risus.",
+        "room": "Ikke ett rom",
+        "createdAt": {
+            "seconds": 1694967131,
+            "nanoseconds": 470000000
+        },
+        "pool": "Lørdag Morgen",
+        "lastUpdated": {
+            "seconds": 1694967131,
+            "nanoseconds": 470000000
+        },
+        "id": "hIiNtZvtJ2ELlPOGbLcm"
+    },
+    {
+        "lastUpdated": {
+            "seconds": 1695673371,
+            "nanoseconds": 482000000
+        },
+        "hideEnrollment": false,
+        "pool": "Lørdag Morgen",
+        "childFriendly": false,
+        "subtitle": "En saga fra vikingtiden",
+        "gameType": "Rollespill",
+        "imageUrl": "/image/programm/EZD6.jpg",
+        "sortingIndex": 0,
+        "possiblyEnglish": false,
+        "published": true,
+        "description": "En saga fra vikingtiden. Harald Hardraade falt for noen år siden. Sykdom og ulykke har herjet landet. De gamle snakker om Fimbulvinter og mørke tegn. Store krefter er i bevegelse. I stormens øye er en bande krigere uten konge og uten en kamp.  Dette er en modul for voksne. Inneholder sterke skildringer, skrekk elementer, historisk problematiske ting som slaveri og vold og holdninger som hørte til den tid og kultur. Ingenting over the top men det er en del av det historiske bakteppet. ",
+        "moreThanSixHours": false,
+        "adultsOnly": true,
+        "beginnerFriendly": false,
+        "createdAt": {
+            "seconds": 1695673371,
+            "nanoseconds": 482000000
+        },
+        "volunteersPossible": false,
+        "lessThanThreeHours": false,
+        "host": "Morten Berserker Magnus",
+        "room": "",
+        "title": "Trøllabundin",
+        "gameSystem": "EZD6 (Cthulhu)",
+        "id": "hKAwygYIGeGxyMooeo2Y"
+    },
+    {
+        "volunteersPossible": false,
+        "adultsOnly": false,
+        "childFriendly": false,
+        "lastUpdated": {
+            "seconds": 1696607368,
+            "nanoseconds": 170000000
+        },
+        "published": true,
+        "imageUrl": "",
+        "lessThanThreeHours": false,
+        "description": "<p>Slå deg sammen med andre Gearlocs og bekjemp tyranene i Daelor i Too Many Bones!\n<p>&nbsp;\n<p>Dette er en fargerik Co-op \"rouge-lite\" type brettspill med historie, pick-locking, taktisk kamp og massevis av terninger! Spillet er kjent for sine plast komponenter og rotete regelsett, men sammen skal vi slå både regler og tyranner!",
+        "createdAt": {
+            "seconds": 1696607368,
+            "nanoseconds": 170000000
+        },
+        "host": "Wirat",
+        "gameType": "Brettspill",
+        "moreThanSixHours": false,
+        "subtitle": "",
+        "beginnerFriendly": false,
+        "sortingIndex": 0,
+        "hideEnrollment": false,
+        "room": "",
+        "possiblyEnglish": false,
+        "title": "Too Many Bones",
+        "gameSystem": "Too Many Bones",
+        "pool": "Ingen",
+        "id": "io9JLZwq3slAByPPISwx"
+    },
+    {
+        "imageUrl": "/image/programm/TheMayanCalendar.jpg",
+        "gameType": "Brettspill",
+        "title": "Brettspillsøndag: Tzolk'in",
+        "subtitle": " The Mayan Calendar",
+        "gameSystem": "The Mayan Calendar",
+        "lastUpdated": {
+            "seconds": 1696683731,
+            "nanoseconds": 725000000
+        },
+        "adultsOnly": false,
+        "volunteersPossible": false,
+        "possiblyEnglish": true,
+        "createdAt": {
+            "seconds": 1696683731,
+            "nanoseconds": 725000000
+        },
+        "pool": "Søndag Morgen",
+        "childFriendly": false,
+        "description": "Spillet er en del av brettspillsøndagen. Vi begynner med dette ved puljestart, og fortsetter med andre brettspill etterpå.\n<p>&nbsp;\n<hr>\n<p>&nbsp;\n<p><i>Tzolk'in</i> er et unikt brettspill, med store roterende tannhjul på spillebrettet! \n<p>&nbsp;\n<p>Forskjellige maya-stammer konkurrerer om å gjøre mest ære til gudene. Man plasserer ut arbeidere på forskjellige hjul, og etter hvert som kalenderen går rundt, flyttes de til bedre posisjoner.",
+        "hideEnrollment": false,
+        "room": "",
+        "lessThanThreeHours": true,
+        "host": "Christian Berge",
+        "beginnerFriendly": true,
+        "sortingIndex": 5,
+        "moreThanSixHours": false,
+        "published": true,
+        "id": "itOlGmRzMXgcodSY3MdM"
+    },
+    {
+        "pool": "Lørdag Morgen",
+        "moreThanSixHours": false,
+        "description": "<p>KRAUT er landet deres. Dere er landets arvtagere. Men de siste årene har Kraut havnet bak naboen Angland i utvikling. En gang var vi mektigst i Futopia, men nå er vi et land ingen bryr seg om. Dette må snus, og da må alle muligheter brukes. \n<p>&nbsp;\n<p>Dere sendes til Angland for å spionere. Hvorfor er det så mye oppfinnelser og industri i nabolandet? Dere må infiltrere Universitetet i Boxford, og helst bortføre den/de mest geniale av oppfinnerne der. Geniene må bringes til Kraut, og tvinges til å finne opp nye ting her, til ære for vår store keiser! \n<p>&nbsp;\n<p>Det henger på deres skuldre nå, å gjøre Kraut til den mektigste nasjonen i verden igjen.\n<p>&nbsp;\n<p>ALT FOR KRAUT!\n<p>&nbsp;\n<p><i>FUTOPIA er den nye fantasi-verdenen til rollespillet Fabula, med en helt annen sjanger enn vanlig Fabula: damppønk. Futopia er en verden i endring, og spillernes roller er drivende i endringene.  \nDette blir bergensernes mulighet til å få en smak av Sommerspillet i år, som gjør bruk av denne helt nye og spennende verdenen.</i>",
+        "lastUpdated": {
+            "seconds": 1696607109,
+            "nanoseconds": 61000000
+        },
+        "published": false,
+        "lessThanThreeHours": false,
+        "volunteersPossible": false,
+        "gameType": "Rollespill",
+        "sortingIndex": 0,
+        "beginnerFriendly": true,
+        "subtitle": "Eventyr i Futopia",
+        "host": "Tomas HV Mørkrid",
+        "title": "Alt for Kraut!",
+        "room": "",
+        "possiblyEnglish": false,
+        "adultsOnly": false,
+        "createdAt": {
+            "seconds": 1696607109,
+            "nanoseconds": 61000000
+        },
+        "gameSystem": "Fabula Futopia",
+        "hideEnrollment": false,
+        "imageUrl": "/image/programm/FabulaFutopia.jpg",
+        "childFriendly": false,
+        "id": "k8yDeucdf1we8O41eHYM"
+    },
+    {
+        "imageUrl": "/image/programm/CityOfMist.jpg",
+        "volunteersPossible": false,
+        "gameType": "Rollespill",
+        "room": "",
+        "moreThanSixHours": false,
+        "possiblyEnglish": true,
+        "host": "Martin Linde Lossius",
+        "description": "<p>What sort of cop are you? Are you a warrior of justice, a mob plant, a corrupt official saving for retirement, the leader of a SWAT team, a real sherlock Holmes, judge dread, or perhaps a harbourer of communist sympathies? In City of Mist: Copotype, you and your fellow role players will assemble your characters from a hodge pot of police movie tropes and stereotypes, to solve the greatest and possibly final case of your careers! Do you have what it takes to solve the mystery? \n<p>&nbsp;\n<p><i>City of Mist</i> is an investigation centred roleplaying system; where players are equipped with soft powers that both describe who their characters are, and what they can do. Compared to D&D 5e players have much more freedom in deciding their actions which, thanks to the systems excellent action & status systems, are never as simple as “I move to attack”. \n<p>No player is expected to have any knowledge of the system prior to the session, and everything is planned accordingly. \n<p>\n<p>Both Norwegian and English will be used in the roleplaying ",
+        "title": "City of Mist: Copotype",
+        "pool": "Fredag Kveld",
+        "gameSystem": "City of Mist",
+        "sortingIndex": 5,
+        "lessThanThreeHours": false,
+        "published": true,
+        "adultsOnly": false,
+        "beginnerFriendly": true,
+        "subtitle": "",
+        "lastUpdated": {
+            "seconds": 1696574742,
+            "nanoseconds": 260000000
+        },
+        "hideEnrollment": false,
+        "childFriendly": false,
+        "createdAt": {
+            "seconds": 1696574742,
+            "nanoseconds": 260000000
+        },
+        "id": "l2urNw2CZpPzD5YYsmjz"
+    },
+    {
+        "published": false,
+        "beginnerFriendly": true,
+        "createdAt": {
+            "seconds": 1696182497,
+            "nanoseconds": 726000000
+        },
+        "host": "",
+        "moreThanSixHours": false,
+        "volunteersPossible": false,
+        "subtitle": "",
+        "room": "",
+        "description": "Netrunner, eit assymetrisk cyberpunk kortspel der du er ein runner som prøvar å hacke seg inn i serverane til skumle megacorporations, eller så er du ein megacorporation som prøvar å maksimere profitt og halde ekle runnerar vekk fra bedriftshemlighetane dine. Prøv kortspelet som er så bra at ein undergrunnsbevegelse av fansen holdt det i live etter at det døde ut. ",
+        "lastUpdated": {
+            "seconds": 1696182497,
+            "nanoseconds": 726000000
+        },
+        "sortingIndex": 0,
+        "possiblyEnglish": true,
+        "gameType": "Annet",
+        "childFriendly": false,
+        "gameSystem": "",
+        "imageUrl": "/image/programm/Netrunner.avif",
+        "hideEnrollment": false,
+        "title": "Netrunner Demo",
+        "pool": "Lørdag Morgen",
+        "adultsOnly": false,
+        "lessThanThreeHours": true,
+        "id": "lVLKOmaRGrkqsAOFHGqg"
+    },
+    {
+        "possiblyEnglish": false,
+        "volunteersPossible": false,
+        "gameSystem": "Clay O Rama",
+        "gameType": "Brettspill",
+        "lessThanThreeHours": true,
+        "lastUpdated": {
+            "seconds": 1695924154,
+            "nanoseconds": 118000000
+        },
+        "childFriendly": true,
+        "description": "Har du det som trengs for å lage det ultimate monsteret? Ønker du å gi ditt skumleste mareritt form, og se hvordan det er sammenlignet med andres?\n\nMonsteret ditt vil sloss med andre monstre og til slutt vil bare ett monster stå seirende igjen.\n\nClay O Rama er ett miniatyrspill ledet av en spilleder. Det er laget av David \"Zeb\" Cook, mannnen som gav oss AD&D 2ed. Spillerne lager et monster av modelleire og beskrive det egenskaper samen med en av spillederne. Duellene vil foregå i pausene mellom puljene med finale på søndag.",
+        "sortingIndex": 0,
+        "title": "Clay O Rama - Only one can stand",
+        "adultsOnly": false,
+        "imageUrl": "/image/programm/Clayorama.jpg",
+        "published": false,
+        "beginnerFriendly": true,
+        "pool": "Lørdag Morgen",
+        "hideEnrollment": false,
+        "createdAt": {
+            "seconds": 1695924154,
+            "nanoseconds": 118000000
+        },
+        "subtitle": "",
+        "host": "Rune Vidareid / Christer Bendixen",
+        "moreThanSixHours": false,
+        "room": "",
+        "id": "mM6p7eWCsfjHnJATPc5I"
+    },
+    {
+        "createdAt": {
+            "seconds": 1696402207,
+            "nanoseconds": 755000000
+        },
+        "room": "",
+        "gameType": "Rollespill",
+        "adultsOnly": false,
+        "lastUpdated": {
+            "seconds": 1696402207,
+            "nanoseconds": 755000000
+        },
+        "host": "Ingveig Larsson",
+        "hideEnrollment": false,
+        "description": "<p>Du bor i en liten by, og du trenger desperat mer penger. En dag ser du en annonse om en konkurranse hvor man kan vinne store summer dersom man tør å overnatte på det gamle barnehjemmet. Det burde jo gå helt fint! Eller...?\n<p>&nbsp;\n<p>Oppstart: Lørdag kveld, kl. 20.",
+        "lessThanThreeHours": false,
+        "published": true,
+        "moreThanSixHours": false,
+        "subtitle": "en historie om lettjente penger",
+        "possiblyEnglish": false,
+        "childFriendly": false,
+        "imageUrl": "/image/programm/CallOfCthulhu.jpg",
+        "pool": "Lørdag Kveld",
+        "sortingIndex": 0,
+        "beginnerFriendly": true,
+        "volunteersPossible": false,
+        "title": "En sjanse for livet",
+        "gameSystem": "Call of Cthulhu",
+        "id": "mkdLbjYew8tq4d2qzgPo"
+    },
+    {
+        "moreThanSixHours": false,
+        "gameType": "Rollespill",
+        "room": "",
+        "title": "Sølvhjerte",
+        "adultsOnly": false,
+        "childFriendly": true,
+        "createdAt": {
+            "seconds": 1696683715,
+            "nanoseconds": 636000000
+        },
+        "published": true,
+        "gameSystem": "Eget system, T6",
+        "volunteersPossible": false,
+        "hideEnrollment": false,
+        "lastUpdated": {
+            "seconds": 1696683715,
+            "nanoseconds": 636000000
+        },
+        "host": "Karl Otto Kristoffersen",
+        "beginnerFriendly": true,
+        "description": "<p>Velkommen til spilltest av <i>Sølvhjerte</i>, hvor målet er å lære litt om gruvebyen Kongsberg på slutten av 1700-tallet. \n<p>&nbsp;\n<p>I løpet av 2024 skal dette spillet rulles ut til ungdomsskolene i Kongsberg kommune, og benyttes som et verktøy for læring. \n<p>&nbsp;\n<p>Nå har du mulighet til påvirke innholdet i boken, ved å være med på spilltest. Det blir en spennende reise i bergstaden, som er på randen av kollaps.\n<p>&nbsp;\n<p>Dere spiller arbeidsledige fattigfolk med enorm gjeld. Klarer dere finne en jobb til å betale den ned, eller bukker dere også under for hungersnøden?",
+        "sortingIndex": 4,
+        "lessThanThreeHours": true,
+        "pool": "Søndag Morgen",
+        "possiblyEnglish": false,
+        "imageUrl": "/image/programm/Kongsberg.jpg",
+        "subtitle": "en spennende reise i historien",
+        "id": "mtvn00oRZJgt3LaPL1BR"
+    },
+    {
+        "lessThanThreeHours": false,
+        "room": "",
+        "moreThanSixHours": false,
+        "subtitle": "The horrors of boot camp",
+        "title": "Camp Fear",
+        "published": true,
+        "gameSystem": "Cthulhu Dark",
+        "createdAt": {
+            "seconds": 1695668542,
+            "nanoseconds": 306000000
+        },
+        "adultsOnly": true,
+        "sortingIndex": 0,
+        "hideEnrollment": false,
+        "childFriendly": false,
+        "pool": "Lørdag Kveld",
+        "possiblyEnglish": true,
+        "beginnerFriendly": true,
+        "description": "<p>The characters are so-called unruly teens (aged 14-17) who are abruptly extracted from their surroundings and shipped away to an undisclosed location by their loved ones or by an indifferent case worker, to serve time at a juvenile correctional facility for teenagers. \n<p>&nbsp;\n<p>Life for the characters goes from bad to worse as the reality and horrors of the boot camp hits them. The path from student to patient to victim is fleeting. Foresight Haven Medical Corp isn’t being very forthright about what they really are doing and the secluded island has a frightful history of its own. \n<p>&nbsp;\n<p>This game is set in America in the 90’s. The mood is likened to teen horror movies from the 70s, 80s and 90’s. The scenario is heavily prompted by the horrifying stories of the real-life survivors of juvenile correctional facilities/ boot camps that existed - and still exist in some places - with a sprinkle of Cthulhu Mythos. \n<p>&nbsp;\n<p>Camp Fear uses the <i>Cthulhu Dark</i> system by Graham Walmsley. \n<p>&nbsp;\n<p>Trigger warnings:\n<p>- Loss of autonomy and sanity \n<p>- Horror (different kinds)\n<p>- Physical, psychological and emotional trauma and abuse\n<p>- No play on sexual trauma and abuse",
+        "gameType": "Rollespill",
+        "lastUpdated": {
+            "seconds": 1695668542,
+            "nanoseconds": 306000000
+        },
+        "imageUrl": "/image/programm/CthulhuDark2.jpg",
+        "host": "Christine Vean",
+        "volunteersPossible": true,
+        "id": "oJaZiRglJEPlRHVKZIsU"
+    },
+    {
+        "moreThanSixHours": false,
+        "lessThanThreeHours": true,
+        "adultsOnly": false,
+        "pool": "Søndag Morgen",
+        "sortingIndex": 4,
+        "gameSystem": "The Mayan Calendar",
+        "published": false,
+        "childFriendly": false,
+        "host": "",
+        "beginnerFriendly": true,
+        "description": "\"Tzolk'in er et unikt brettspill, med store roterende tannhjul på spillebrettet! Forskjellige maya-stammer konkurrerer om å gjøre mest ære til gudene. Man plasserer ut arbeidere på forskjellige hjul, og etter hvert som kalenderen går rundt, flyttes de til bedre posisjoner.\n\nSpillet er en del av brettspillsøndagen. Vi begynner med dette ved puljestart, og fortsetter med andre brettspill etterpå.\"",
+        "subtitle": "",
+        "room": "",
+        "gameType": "Brettspill",
+        "hideEnrollment": false,
+        "possiblyEnglish": true,
+        "title": "Brettspillsøndag: Tzolk'in",
+        "volunteersPossible": false,
+        "lastUpdated": {
+            "seconds": 1696683746,
+            "nanoseconds": 478000000
+        },
+        "createdAt": {
+            "seconds": 1696683746,
+            "nanoseconds": 478000000
+        },
+        "imageUrl": "",
+        "id": "pgoHfa5C1ekWinyiyLk7"
+    },
+    {
+        "description": "<p>Tåken henger tett mellom de mørke trærne i Skogens Dype. En mystisk spådame, med glødende øyne og uforklarlige evner, har kalt dere dit. Hun overrekker et kart og proklamerer at skjebnen har vevd dere sammen for å avdekke en eldgammel sannhet som har vært glemt i århundrer. Velkommen til Skogens Dype, deres skjebne venter i skyggene, og en episk reise begynner.\n<p>&nbsp;</p>\n<p><b>Praktisk informasjon</b>\n<p>Målgruppen er barn og ungdom på familiedagen til Regncon. Vi spiller standard D&D5e.\n<p>&nbsp;</p>\n<p>Du får utdelt alt du trenger for å spille, inkludert ferdiglagde karakterer.\n<p>&nbsp;</p>\n<p>Ta med noe å drikke og kanskje noe snacks.",
+        "createdAt": {
+            "seconds": 1696751230,
+            "nanoseconds": 484000000
+        },
+        "adultsOnly": false,
+        "published": true,
+        "hideEnrollment": false,
+        "volunteersPossible": false,
+        "childFriendly": true,
+        "pool": "Søndag Morgen",
+        "possiblyEnglish": true,
+        "imageUrl": "/image/programm/DND5E.jpg",
+        "title": "I Spådommens Spor",
+        "gameSystem": "D&D5e",
+        "moreThanSixHours": false,
+        "host": "Gerhard og Grethe Just-Olsen",
+        "subtitle": "D&D for barn fra 13 og oppover",
+        "gameType": "Rollespill",
+        "sortingIndex": 5,
+        "lessThanThreeHours": false,
+        "lastUpdated": {
+            "seconds": 1696751230,
+            "nanoseconds": 484000000
+        },
+        "room": "",
+        "beginnerFriendly": true,
+        "id": "qFJpjENDxSNwcP4fMcEz"
+    },
+    {
+        "host": "",
+        "title": "Brettspill Søndag Morgen",
+        "volunteersPossible": false,
+        "description": "Spel brettspel frå brettspelbiblioteket til Regncon. Vi har mange å velge mellom. Meld deg på denne aktiviteten for å finna nokon å spele saman med",
+        "possiblyEnglish": false,
+        "hideEnrollment": false,
+        "pool": "Søndag Morgen",
+        "room": "",
+        "beginnerFriendly": false,
+        "gameType": "Brettspill",
+        "published": true,
+        "subtitle": "Spel brettspel frå brettspelbiblioteket til Regncon",
+        "moreThanSixHours": false,
+        "sortingIndex": 9,
+        "createdAt": {
+            "seconds": 1695812758,
+            "nanoseconds": 628000000
+        },
+        "lastUpdated": {
+            "seconds": 1695812758,
+            "nanoseconds": 628000000
+        },
+        "gameSystem": "",
+        "lessThanThreeHours": false,
+        "childFriendly": false,
+        "imageUrl": "/image/programm/Brettspill.jpg",
+        "adultsOnly": false,
+        "id": "qUcxWclwORzlxstYE7vI"
+    },
+    {
+        "sortingIndex": 0,
+        "createdAt": {
+            "seconds": 1696599595,
+            "nanoseconds": 814000000
+        },
+        "lessThanThreeHours": false,
+        "gameType": "Annet",
+        "beginnerFriendly": false,
+        "hideEnrollment": true,
+        "host": "",
+        "subtitle": "Puljepåmelding stenger kl 17:30",
+        "description": "Puljepåmelding stenger kl 17:30",
+        "volunteersPossible": false,
+        "room": "",
+        "possiblyEnglish": false,
+        "moreThanSixHours": false,
+        "title": "Innsjekk Fredag  Kl 16:30 - 18:00",
+        "imageUrl": "/image/placeholder.jpg",
+        "adultsOnly": false,
+        "published": true,
+        "gameSystem": "",
+        "pool": "Fredag Kveld",
+        "childFriendly": false,
+        "lastUpdated": {
+            "seconds": 1696599595,
+            "nanoseconds": 814000000
+        },
+        "id": "qYONbnLKjVA9hrBPXTSX"
+    },
+    {
+        "imageUrl": "/image/programm/Fabula.jpg",
+        "gameSystem": "Fabula",
+        "description": "<p>Steike steinbit! Det var ei felle! Piratskipet Gullørna ble skutt i brann på Askehavet, fra en kremmerkogg full av bueskyttere. Kaptein Gråkjeft hadde ikke annet valg enn å seile det brennende skipet mot Blodklippene!\n<p>Skipet er knust mot klippene! Folk er kastet i sjøen, hamret mot klippene, dratt ned i dypet. Dere kravler i land, fillete, forslåtte, forbanna! Dere har ingenting, annet enn tolleknivene i beltet, og foran dere står de røde klippene høye. Det er ingen annen vei enn opp, og det må skje før høyvannet kommer og drar dere ut igjen. Dere overlever ikke en ny kamp i de frådende brenningene.\n<p>Over Blodklippene står Utbergene høye og mørke. Bak bergveggene ligger røverriket Rann. Dere må gjennom hele muslingmørke Rann for å komme til piratreiret deres, den eneste byen i disse lovløse landene: Surt. Røverne i de andre borgene hater pirater. Med sine hester og huggerter har de alle fordeler på landjorda.\n<p>Hva gjør dere?",
+        "adultsOnly": false,
+        "published": false,
+        "lessThanThreeHours": false,
+        "gameType": "Rollespill",
+        "lastUpdated": {
+            "seconds": 1696607181,
+            "nanoseconds": 703000000
+        },
+        "host": "Tomas HV Mørkrid",
+        "possiblyEnglish": false,
+        "createdAt": {
+            "seconds": 1696607181,
+            "nanoseconds": 703000000
+        },
+        "room": "",
+        "beginnerFriendly": true,
+        "sortingIndex": 0,
+        "subtitle": "Det er ingen annen vei",
+        "hideEnrollment": false,
+        "title": "Fillepiratene",
+        "childFriendly": false,
+        "moreThanSixHours": false,
+        "volunteersPossible": false,
+        "pool": "Fredag Kveld",
+        "id": "quWgwaQQWnIfbaHsq2tV"
+    },
+    {
+        "pool": "Fredag Kveld",
+        "adultsOnly": false,
+        "beginnerFriendly": true,
+        "volunteersPossible": true,
+        "gameSystem": "Brindlewood Bay",
+        "title": "All Hallow's Scream",
+        "childFriendly": false,
+        "room": "",
+        "createdAt": {
+            "seconds": 1695663183,
+            "nanoseconds": 149000000
+        },
+        "sortingIndex": 0,
+        "host": "Bjørn Ove Asprem",
+        "moreThanSixHours": false,
+        "gameType": "Rollespill",
+        "hideEnrollment": false,
+        "imageUrl": "/image/programm/BrindlewoodBay.jpg",
+        "published": true,
+        "description": "<p>Enkene i den nysgjerrige bokklubben Murder Mavens blir invitert til den pensjonerte filmskaperen Abner Vidals villa for en Hollywood-preget Halloween-fest. Men festlighetene blir straks avbrutt av et grusomt drap … \n<p>&nbsp;</p>\n<p>Brindlewood Bay er et innovativt rollespill med en helt ny tilnærming til mordmysterier. I disse spillene er ikke morderen bestemt av GM på forhånd. Rollene avhører mistenkte, snoker rundt etter spor og vil på bakgrunn av disse selv formulere en teori om hvem som er morderen, og hva motivet er. Det er derimot slettes ikke sikkert de har rett. \n<p>&nbsp;</p>\n<p>Mysteriet er fra spillets hovedbok, men det gjør ingenting om du har spilt det før. Morderen kan være en helt annen denne gangen! ",
+        "lastUpdated": {
+            "seconds": 1695663183,
+            "nanoseconds": 149000000
+        },
+        "possiblyEnglish": true,
+        "subtitle": "Hvem er morderen?",
+        "lessThanThreeHours": false,
+        "id": "rWzq39rwSw2wNX5hQmfy"
+    },
+    {
+        "adultsOnly": false,
+        "imageUrl": "/image/programm/HollowKnight.jpg",
+        "hideEnrollment": false,
+        "sortingIndex": 0,
+        "possiblyEnglish": true,
+        "lessThanThreeHours": false,
+        "room": "",
+        "published": true,
+        "subtitle": "The Sages of the Spire await",
+        "gameSystem": "The unofficial Hollow Knight TTRPG",
+        "title": "Reaching for the Sky",
+        "beginnerFriendly": true,
+        "description": "<p>\"Higher beings, these words are for you alone.\n<p>&nbsp;</p>\n<p>Come forth and witness storms beyond your wildest imaginations. Be not afraid, for it shall welcome you with open arms. Greet the labyrinth of which has grown old by the years, venture through the quarry which once bustled with dreams, and find us within the Windswept Spire. Brave the challenges ahead, for once your journey comes to an end, your regret shall all but perish.”\n<p>&nbsp;</p>\n<p>You and a select few wanderers have been invited to visit the Eversun Kingdom’s greatest work and achievement. Delve into the kingdom and discover the secrets that lie ahead in the fanmade Hollow Knight TTRPG system. The sages of the Spire await your arrival.",
+        "gameType": "Rollespill",
+        "moreThanSixHours": false,
+        "pool": "Lørdag Morgen",
+        "host": "Grethe C. Just-Olsen",
+        "childFriendly": false,
+        "createdAt": {
+            "seconds": 1696182683,
+            "nanoseconds": 676000000
+        },
+        "volunteersPossible": false,
+        "lastUpdated": {
+            "seconds": 1696182683,
+            "nanoseconds": 676000000
+        },
+        "id": "sIySwcHZHXYu8C2bd2fY"
+    },
+    {
+        "hideEnrollment": false,
+        "published": false,
+        "lastUpdated": {
+            "seconds": 1695668098,
+            "nanoseconds": 799000000
+        },
+        "volunteersPossible": false,
+        "title": "...where youth and laughter go.",
+        "host": "Morten B. Magnus",
+        "moreThanSixHours": false,
+        "beginnerFriendly": true,
+        "sortingIndex": 0,
+        "possiblyEnglish": true,
+        "subtitle": "Something is making its presence felt",
+        "imageUrl": "/image/programm/CthulhuPulp.jpg",
+        "lessThanThreeHours": false,
+        "description": "<p>The Great War (WW1) has engulfed the world in its deadliest conflict in history. Many of the mayor powers in the world clash against eachother. Civilians starve and decease is rampant. \n<p>&nbsp;</p>\n<p>The German warmachine is winning on all fronts. The allied forces is desperate for victories on the battlefields. But something  has changed and is making its presence felt in the theatre of war. Something that can change the tide of war or maybe consume friend or foe alike. \n<p>&nbsp;</p>\n<p>Will be run in English to fit the setting. ",
+        "createdAt": {
+            "seconds": 1695668098,
+            "nanoseconds": 799000000
+        },
+        "adultsOnly": true,
+        "pool": "Fredag Kveld",
+        "gameType": "Rollespill",
+        "childFriendly": false,
+        "gameSystem": "Call of Cthulhu / Cthulhu Pulp",
+        "room": "",
+        "id": "sdzeS7YcZl3XgP2wrZDR"
+    },
+    {
+        "published": true,
+        "lessThanThreeHours": false,
+        "room": "",
+        "imageUrl": "/image/programm/Mothership.jpg",
+        "subtitle": "Hazard pay has been added",
+        "moreThanSixHours": false,
+        "description": "NB: Vi ønsker å starte kl 20\n<p>Your crew of contractors has been hired by the Company to investigate a problem at Greta Base Terraforming Colony on the rimworld Samsa VI. Greta Base has missed its last three check-ins, and has not been heard from for six months. Your mission is to rendezvous with 2ndLt. Kaplan, clear the area of hostiles, and retrieve the samples from Dr. Edem. \n<p>&nbsp;</p>\n<p>Hazard pay has been added to your standard contractor fee. Hazard pay does not make the Company liable for any loss or damage to equipment, or to the physical and/or mental health of Company contractors.”\n<p>&nbsp;</p>\n<p><i>Mothership</i> is a sci-fi horror game. The session may include descriptions of lethal violence, body horror, mental illness, drug abuse and general feeling of hopelessness from living in an ultra-capitalist dystopia while having your brain eaten from the inside by an alien parasite.\n<p>&nbsp;</p>\n<p>Solve. Save. Survive. \n<p>You can not choose all.\n<p>&nbsp;\n<p><i>Starts at 8 p.m. Spillet starter kl. 20 om kvelden.</i>\n\n",
+        "createdAt": {
+            "seconds": 1696683556,
+            "nanoseconds": 988000000
+        },
+        "beginnerFriendly": true,
+        "hideEnrollment": false,
+        "title": "Another bug hunt",
+        "sortingIndex": 0,
+        "childFriendly": false,
+        "host": "Truls FL",
+        "adultsOnly": true,
+        "gameType": "Rollespill",
+        "possiblyEnglish": true,
+        "volunteersPossible": true,
+        "gameSystem": "Mothership v. 1.0",
+        "pool": "Lørdag Kveld",
+        "lastUpdated": {
+            "seconds": 1696683556,
+            "nanoseconds": 988000000
+        },
+        "id": "sjlEu99No5wqoH1vc1de"
+    },
+    {
+        "host": "Michael Stensen Sollien",
+        "subtitle": "Et skjebnesvangert diplomatisk oppdrag",
+        "lessThanThreeHours": false,
+        "title": "Dragepust: Under syv fjell",
+        "imageUrl": "/image/programm/Dragepust.jpg",
+        "lastUpdated": {
+            "seconds": 1696322722,
+            "nanoseconds": 673000000
+        },
+        "volunteersPossible": false,
+        "hideEnrollment": false,
+        "moreThanSixHours": false,
+        "childFriendly": false,
+        "sortingIndex": 0,
+        "room": "",
+        "beginnerFriendly": true,
+        "adultsOnly": false,
+        "pool": "Lørdag Morgen",
+        "possiblyEnglish": false,
+        "gameSystem": "Dragepust",
+        "published": true,
+        "gameType": "Rollespill",
+        "description": "<p>I dette eventyret sendes heltene ut på et skjebnesvangert diplomatisk oppdrag for å megle mellom steindvergene og skyfolket. Hvilke mørke hemmeligheter gjemmer seg blant de syv majestetiske fjellene i Sørhorntindene?\n<p>&nbsp;\n<p><i>Dragepust er et rollespill satt i en nordisk fantasysetting skrevet av Michael S. Sollien, Nicolai Krogsrud-Strøm og Simen L. Stangeland.\n<p>&nbsp;\n<p>Verden holdes sammen av en massiv kraftstråle midt i hovedstaden Nürn Alkham. Alver, dverger og mennesker lever sammen i en skjør fred nå som de har gjenvunnet makten etter mørketiden, men noe truer med å ødelegge det hele. Onde dragefyrster slumrer mens de forpurrer innbyggernes sinn og gjør dem til slaver av sin vilje. Dragene søker å ødelegge himmelnålen og legge en ny mørketid over verden.\n<p>&nbsp;\n<p>Dragepust er lett å spillede med regler som ikke kommer i veien for historien uten å være en lettvekter. Man ruller to sekssidede terninger for å se om man klarer det man prøver på og man kan bruke vilje og hjelp fra andre roller for å gjøre rullene lettere. Vandrer man i områder påvirket av dragepust er det fare for at rollens sinn blir forpurret og uventede ting kan skje.",
+        "createdAt": {
+            "seconds": 1696322722,
+            "nanoseconds": 673000000
+        },
+        "id": "tcuIwSphRJn2Em3zT4IC"
+    },
+    {
+        "sortingIndex": 0,
+        "adultsOnly": false,
+        "gameType": "Ingen",
+        "hideEnrollment": false,
+        "createdAt": {
+            "seconds": 1696607333,
+            "nanoseconds": 622000000
+        },
+        "lessThanThreeHours": false,
+        "beginnerFriendly": false,
+        "moreThanSixHours": false,
+        "host": "Wirat",
+        "childFriendly": false,
+        "imageUrl": "",
+        "title": "Too Many Bones",
+        "possiblyEnglish": false,
+        "pool": "Ingen",
+        "published": true,
+        "volunteersPossible": false,
+        "gameSystem": "Too Many Bones",
+        "subtitle": "",
+        "room": "",
+        "lastUpdated": {
+            "seconds": 1696607333,
+            "nanoseconds": 622000000
+        },
+        "description": "<p>Slå deg sammen med andre Gearlocs og bekjemp tyranene i Daelor i Too Many Bones!\n<p>&nbsp;\n<p>Dette er en fargerik Co-op \"rouge-lite\" type brettspill med historie, pick-locking, taktisk kamp og massevis av terninger! Spillet er kjent for sine plast komponenter og rotete regelsett, men sammen skal vi slå både regler og tyranner!",
+        "id": "vE2rxTkteggFgF1cJk3s"
+    },
+    {
+        "createdAt": {
+            "seconds": 1695671663,
+            "nanoseconds": 541000000
+        },
+        "sortingIndex": 0,
+        "lastUpdated": {
+            "seconds": 1695671663,
+            "nanoseconds": 541000000
+        },
+        "hideEnrollment": false,
+        "imageUrl": "",
+        "host": "",
+        "published": false,
+        "description": "You are space truckers on the starfreighter USCSS Montero, running “the Gauntlet”— the trade route between Anchorpoint Station and the Frontier. You are hauling valuable cargo for Wayland Yutani on a special commission. Easy money. What can go wrong? ",
+        "pool": "Fredag Kveld",
+        "subtitle": "( Short modified edition)",
+        "room": "",
+        "title": "Chariot of the gods ",
+        "gameType": "Rollespill",
+        "gameSystem": "Alien Rpg",
+        "id": "vVYaF7agNuGxnAeBD5PX"
+    },
+    {
+        "createdAt": {
+            "seconds": 1696175895,
+            "nanoseconds": 345000000
+        },
+        "volunteersPossible": false,
+        "possiblyEnglish": false,
+        "imageUrl": "/image/programm/ToBeAnnounced.jpg",
+        "subtitle": "To be announced",
+        "adultsOnly": false,
+        "gameType": "Rollespill",
+        "host": "",
+        "title": "Mer kommer",
+        "description": "",
+        "published": false,
+        "childFriendly": false,
+        "gameSystem": "",
+        "lastUpdated": {
+            "seconds": 1696175895,
+            "nanoseconds": 345000000
+        },
+        "sortingIndex": 11,
+        "pool": "Lørdag Morgen",
+        "room": "",
+        "moreThanSixHours": false,
+        "beginnerFriendly": false,
+        "hideEnrollment": true,
+        "lessThanThreeHours": false,
+        "id": "xJGaTI5OEyO2km9RFGeC"
+    },
+    {
+        "childFriendly": false,
+        "gameSystem": "",
+        "lessThanThreeHours": true,
+        "imageUrl": "/image/programm/Karvi.jpg",
+        "sortingIndex": 0,
+        "lastUpdated": {
+            "seconds": 1695668431,
+            "nanoseconds": 964000000
+        },
+        "description": "<i>Karvi</i> er årets BIG BOX fra Hans im Glück spillforlag. Det blir lansert for første gang på Essen spillmesse i år (samme helg som RegnCon), og er egentlig ikke mulig å få tak i ennå. Men RegnCon har vært så heldige at vi har klart og fått tak i en pre-print! Dere kan altså få prøve spillet på RegnCon samtidig som det blir lansert på Essen!\n<p>&nbsp;</p>\n<p>I spillet er man norske vikinger som reiser rundt i verden for å handle og plyndre. For å gjøre det må man sørge for at man har et bra skip fullt av sterke menn. Skipet kan oppgraderes og blir bedre underveis i spillet, og vikingene kan også bli både flere og sterkere. Bare husk på at du også må fylle på med nok proviant, ellers kan ikke skipet flytte på seg! Spillet har en ganske morsom mekanikk, der man velger actions ved å flytte terninger etter hverandre. \n<p>&nbsp;</p>\n<p>Spilletid: ca 120 minutt.\n<p>Middels+ vanskelighetsgrad (for brettspill-entusiaster som helst har spilt noen strategispill før).",
+        "createdAt": {
+            "seconds": 1695668431,
+            "nanoseconds": 964000000
+        },
+        "adultsOnly": false,
+        "gameType": "Brettspill",
+        "possiblyEnglish": true,
+        "beginnerFriendly": true,
+        "host": "Christian Berge",
+        "volunteersPossible": false,
+        "pool": "Fredag Kveld",
+        "hideEnrollment": false,
+        "moreThanSixHours": false,
+        "subtitle": "Premiere på nytt brettspill!",
+        "room": "",
+        "title": "Karvi",
+        "published": true,
+        "id": "xN2Bl1ZkwDpiBCh2pr84"
+    },
+    {
+        "host": "Sindre Glosli",
+        "volunteersPossible": false,
+        "subtitle": "",
+        "hideEnrollment": false,
+        "gameType": "Annet",
+        "moreThanSixHours": true,
+        "sortingIndex": 0,
+        "childFriendly": false,
+        "lessThanThreeHours": true,
+        "gameSystem": "Blood on the Clocktower",
+        "createdAt": {
+            "seconds": 1695671694,
+            "nanoseconds": 874000000
+        },
+        "title": "Blood on the Clocktower",
+        "imageUrl": "/image/programm/BloodOnTheClocktower.jpg",
+        "room": "",
+        "published": true,
+        "lastUpdated": {
+            "seconds": 1695671694,
+            "nanoseconds": 874000000
+        },
+        "possiblyEnglish": true,
+        "beginnerFriendly": true,
+        "pool": "Fredag Kveld",
+        "description": "<i>Blood on the Clocktower</i> er et social deduction-spill, slik som Werewolf, Mafia, Among Us, Secret Hitler, etc, hvor man blir delt inn i to lag (onde mot gode).\n<p>&nbsp;</p>\n<p>Hovedforskjellen fra lignende spill er at alle spillere har en karakter med egne krefter, og det er INGEN spiller-eliminering. Selv om du dør er du med på å påvirke spillets gang!",
+        "adultsOnly": false,
+        "id": "ydfeJ8VIuQ4tIyKVjuCo"
+    }
+]
