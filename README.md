@@ -1,6 +1,6 @@
 A fork of Conorganizer (https://github.com/Regncon/conorganizer) made to show the state of the app in late 2023, for the sake of my portfolio. The data from the app has been downloaded to a json-file and authentication is disabled, so you can't log in.
 
-Visit a deployed version of the app here: https://conorganizer-portfoliofork-gmbv.vercel.app/
+Visit a deployed version here: https://conorganizer-portfoliofork-gmbv.vercel.app/
 
 In late 2023, Conorganizer was a simple app for reading the program for the role playing convention Regncon, and for registering for the different events.
 
